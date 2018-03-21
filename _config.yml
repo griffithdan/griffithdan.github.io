@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Savanna and grassland biogeography
 description: Daniel M. Griffith, Ph.D.
+email: griffith.dan@gmail.com
+twitter_username: griffithdan
+github_username: griffithdan
+
+markdown: kramdown
