@@ -1,14 +1,35 @@
-<footer class="site-footer">
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
   <div class="wrapper">
-    <div class="footer-col-wrapper" >
-    <div class="footer-nav">
-        {% for lesson in site.pages %}
-          {% if lesson.nav == true %}
-          <a class="page-link" href="{{ lesson.url | absolute_url }}">{{ lesson.title | escape }}</a>
-          {% endif %}
-        {% endfor %}
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
     </div>
-    </div>
-      <h2 class="footer-heading"><a href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a> - <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a> <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> - {{ site.pub_year }}.</h2> 
+
   </div>
+
 </footer>
