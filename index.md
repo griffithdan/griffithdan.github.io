@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+Grass-dominated ecosystems are threatened by land-cover conversion and climate change. The loss of grasslands and savannas is exacerbated by pervasive misclassification of savannas as degraded forests and a lack of basic information about the origins and diversity of grass-dominated ecosystems. Savanna ecosystems, in particular, are difficult to delineate climatically because of their unique relationships with disturbances, such as fire and grazing, and the dynamics of tree-grass coexistence. Grasses likely played an important role in early human evolution and they currently feed livestock and provide the bulk of humanity’s calories. Grasses dominate roughly one-quarter of the terrestrial biosphere, are a major component of the global carbon cycle, and support some of Earth’s most dynamic foodwebs. Thus, grasses are absolutely central to a wide range of ecological and environmental challenges. However, since grass-dominated ecosystems have partly non-climatic and disturbance driven distributions, conserving them requires basic research linking local dynamics to the evolutionary innovations conferring ecological dominance to particular clades of grasses. My research focuses on the influences of disturbance, evolution, and biotic interaction along environmental gradients at local, regional, and global scales. Some of the overarching questions that interest me include:
 
-You can use the [editor on GitHub](https://github.com/griffithdan/griffithdan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- What are the drivers of grass-dominated vegetation distributions, and to what extent are non-climatic factors important?
+- At what scale (grain and extent) are biotic versus abiotic filters important determinants of community assembly?
+- How do plant traits and evolutionary trade-offs among traits contribute to ecological functioning?
+- Can our research be translated into improved representation of grass biogeography in earth system models?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This page is under construction...
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/griffithdan/griffithdan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+While I migrate from my previous [site](https://danielmgriffith.wordpress.com/).
