@@ -1,7 +1,7 @@
 - title: Home
-  url: /index.html
+  url: /
 - title: Publications
-  url: /publications.html
+  url: /pages/publications.html
   sublinks:
-      - title: Test
-        url: /publications.html
+      - title: Code and Data
+        url: /pages/code_and_data/publications.html
