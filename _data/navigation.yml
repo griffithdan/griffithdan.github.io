@@ -2,14 +2,11 @@
   url: /
   
 - title: Outreach
-  url: /pages/outreach
+  url: /
   sublinks:
     - title: test
-      url: /publications.html 
+      url: /
       
 - title: Code and Data
   url: /pages/code_and_data/publications.html
        
-- title: Code and Data
-  url: /pages/code_and_data/publications.html
-
