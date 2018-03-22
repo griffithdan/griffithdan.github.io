@@ -22,7 +22,7 @@
         {% if sublinks %}
         <li{{ current }}>
             <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-            <ul>
+            <ul class="nav-dropdown">
                 {% for sublink in sublinks %}
                 <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
                 {% endfor %}
