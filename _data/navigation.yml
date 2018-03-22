@@ -3,7 +3,7 @@
 - title: Publications
   url: /pages/publications.html
 - title: Code and Data
-  url: /pages/code_and_data/publications.html
+  url: /pages/code_and_data/
   sublinks:
-      - title: subtitle
-        url: /pages/code_and_data/publications.html
+    - title: subtitle
+    url: /pages/code_and_data/publications.html
