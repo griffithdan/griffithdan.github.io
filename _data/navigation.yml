@@ -8,8 +8,8 @@
   url: /pages/publications.html
 
 - title: Outreach
-  url: /pages/outreach/publications.html
+  url: /pages/outreach/
   sublinks:
     - title: test
-      url: /pages/outreach/publications.html
+      url: publications.html
 
