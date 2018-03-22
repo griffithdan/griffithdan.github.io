@@ -9,4 +9,7 @@
 
 - title: Outreach
   url: /pages/outreach/publications.html
+  sublinks:
+    - title: test
+      url: /pages/outreach/publications.html
 
