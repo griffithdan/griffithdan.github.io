@@ -1,5 +1,5 @@
 ---
-layout: pageTestEdit
+layout: default
 title: Publications
 ---
 
