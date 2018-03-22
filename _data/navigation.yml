@@ -5,8 +5,8 @@
 - title: Code and Data
   url: /pages/code_and_data/publications.html
   sublinks:
-    - title: subtitle
-      url: /pages/code_and_data/publications.html
+     - title: subtitle
+     url: /pages/code_and_data/publications.html
 - title: Outreach
   url: /pages/outreach/publications.html
   sublinks:
