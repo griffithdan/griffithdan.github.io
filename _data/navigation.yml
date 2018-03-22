@@ -2,3 +2,6 @@
   url: /index.html
 - title: Publications
   url: /publications.html
+  sublinks:
+      - title: Test
+        url: /publications.html
