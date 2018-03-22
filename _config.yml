@@ -5,7 +5,3 @@ twitter_username: griffithdan
 github_username: griffithdan
 
 markdown: kramdown
-
-header_pages:
-  - index.md
-  - publication.md
