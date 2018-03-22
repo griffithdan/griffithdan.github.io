@@ -2,6 +2,8 @@
   url: /
 - title: Publications
   url: /pages/publications.html
+- title: Code and Data
+  url: /pages/code_and_data/
   sublinks:
       - title: Code and Data
-        url: /pages/code_and_data/
+        url: /pages/code_and_data/publications.html
