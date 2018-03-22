@@ -1,15 +1,17 @@
 - title: Home
   url: /
   
+- title: Outreach
+  url: /pages/outreach/
+  sublinks:
+    - title: test
+      url: publications.html 
+      
 - title: Code and Data
   url: /pages/code_and_data/publications.html
        
 - title: Publications
   url: /pages/publications.html
 
-- title: Outreach
-  url: /pages/outreach/
-  sublinks:
-    - title: test
-      url: publications.html
+
 
