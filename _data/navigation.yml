@@ -2,12 +2,19 @@
   url: /
 - title: Publications
   url: /pages/publications.html  
+- title: Code and Data
+  url: /
+  sublinks:
+    - title: Serengeti Fire Map
+      url: /pages/code_and_data/fire-animation.html  
+    - title: Probabilistic species co-occurrence model in R
+      url: /pages/code_and_data/fire-animation.html
+    - title: GitHub
+      url: https://github.com/griffithdan 
 - title: Outreach
   url: /pages/outreach/publications.html
   sublinks:
-    - title: test
-      url: /pages/outreach/publications.html
-- title: Code and Data
-  url: /pages/code_and_data/fire-animation.html
-       
-
+    - title: SavannaWeb
+      url: /pages/outreach/publications.html       
+- title: CV
+  url: /pages/cv.html  
