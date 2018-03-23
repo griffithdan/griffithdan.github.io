@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+![publications image]({{ site.url }}/assets/publications.jpg)
+
 ## In review
 
 Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In review, Ecology Letters.
