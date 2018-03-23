@@ -1,6 +1,10 @@
 @import "fonts";
 @import "rouge-github";
 
+html {
+  overflow-y: scroll;
+}
+
 body {
   background-color: #fff;
   padding:50px;
@@ -80,7 +84,7 @@ a:hover small {
 
 .wrapper {
   width:1100px;
-  /*margin:0 auto;*/
+  margin:0 auto;
 }
 
 blockquote {
