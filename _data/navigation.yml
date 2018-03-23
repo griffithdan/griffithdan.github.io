@@ -3,7 +3,7 @@
 - title: Publications
   url: /pages/publications.html  
 - title: Code and Data
-  url: /
+  url: /pages/code_and_data/code-and-data.html
   sublinks:
     - title: Serengeti Fire Map
       url: /pages/code_and_data/fire-animation.html  
