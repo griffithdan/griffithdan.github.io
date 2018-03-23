@@ -22,7 +22,11 @@ nav a {
     text-decoration: none;
 }
 nav li.active a {
-    color: #ffffff;
+    color: #727272;
+}
+
+nav a:hover, a:focus {
+  color:#727272;
 }
 
 nav ul li ul {
