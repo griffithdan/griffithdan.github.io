@@ -3,6 +3,8 @@ layout: default
 title: CV
 ---
 
+![cv image]({{ site.url }}/assets/cv.jpg)
+
 # CV
 
 321 Richardson Hall, Department of Forest Ecosystems and Society
