@@ -7,5 +7,6 @@ For more information about the SavannaWeb project see: http://wfu.me/andersonlab
 
 Below is a video of one of my SavannaWeb interactive sessions that I did remotely from Serengeti National Park, TZ. I am a plant ecologist, but I think I did alright talking about teeth!
 
-
-[youtube https://www.youtube.com/watch?v=wxKugBqchM4]
+{::options parse_block_html="true" /}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wxKugBqchM4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{::options parse_block_html="false" /}
