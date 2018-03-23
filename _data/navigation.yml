@@ -1,5 +1,7 @@
 - title: Home
   url: /
+- title: Publications
+  url: /pages/publications.html  
 - title: Outreach
   url: /pages/outreach/publications.html
   sublinks:
