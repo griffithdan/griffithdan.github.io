@@ -7,9 +7,6 @@ Grass-dominated ecosystems are threatened by land-cover conversion and climate c
 - How do plant traits and evolutionary trade-offs among traits contribute to ecological functioning?
 - Can our research be translated into improved representation of grass biogeography in earth system models?
 
-### This page is under construction...
-
-While I migrate from my previous [site](https://danielmgriffith.wordpress.com/).
 
 
 
