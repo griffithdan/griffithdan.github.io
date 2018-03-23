@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-![cv image]({{ site.url }}/assets/cv.jpg)
+![cv image]({{ site.url }}/assets/cv.jpg){:width="900px"}
 
 # CV
 
