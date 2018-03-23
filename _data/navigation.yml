@@ -8,13 +8,13 @@
     - title: Serengeti Fire Map
       url: /pages/code_and_data/fire-animation.html  
     - title: Species co-occurrence
-      url: /pages/code_and_data/fire-animation.html
+      url: /pages/code_and_data/cooccur.html
     - title: GitHub
       url: https://github.com/griffithdan 
 - title: Outreach
-  url: /pages/outreach/publications.html
+  url: /pages/outreach/outreach.html
   sublinks:
     - title: SavannaWeb
       url: /pages/outreach/publications.html       
 - title: CV
-  url: /pages/cv.html  
+  url: /pages/CV/cv.html  
