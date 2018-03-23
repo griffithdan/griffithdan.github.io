@@ -10,3 +10,5 @@ Grass-dominated ecosystems are threatened by land-cover conversion and climate c
 ### This page is under construction...
 
 While I migrate from my previous [site](https://danielmgriffith.wordpress.com/).
+
+(8) Anderson, T.M., **D.M. Griffith**, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology.
