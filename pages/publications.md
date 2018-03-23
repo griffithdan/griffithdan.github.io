@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-![publications image]({{ site.url }}/assets/publications.jpg =900)
+![publications image]({{ site.url }}/assets/publications.jpg =900x)
 
 ## In review
 
