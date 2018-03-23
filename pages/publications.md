@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-![publications image]({{ site.url }}/assets/publications.jpg) <!-- .element width="900px" -->
+![publications image]({{ site.url }}/assets/publications.jpg) <!-- .element width="1000px" -->
 
 ## In review
 
