@@ -5,13 +5,15 @@
 {% for entry in site.data.navigation %}
   {% assign sublinks = entry.sublinks %}
   {% if sublinks %}
-    {% capture fullurl %}{{ site.baseurl }}{{ sublink.url }}{% endcapture %}
-        {% if fullurl == page.url %}
-            {% assign current_page = fullurl %}
-            {% break %}
-        {% elsif page.url contains fullurl %}
-            {% assign current_page = fullurl %}
-        {% endif %}
+    {% for sublink in sublinks %}
+      {% capture fullurl %}{{ site.baseurl }}{{ sublink.url }}{% endcapture %}
+          {% if fullurl == page.url %}
+              {% assign current_page = fullurl %}
+              {% break %}
+          {% elsif page.url contains fullurl %}
+              {% assign current_page = fullurl %}
+          {% endif %}
+    {% endfor %}
   {% else %}
     {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
         {% if fullurl == page.url %}
