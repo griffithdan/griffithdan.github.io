@@ -31,6 +31,11 @@
                           {% assign target = "_blank" %}{% else %}
                           {% assign target = "_self" %}
                         {% endif %}
+                            {% if sublink.url == current_page %}
+                                {% assign current = ' class="current"' %}
+                                {% else %}
+                                {% assign current = null %}
+                            {% endif %}
                         <li><a href="{{ site.baseurl }}{{ sublink.url }}" target="{{ target }}">{{ sublink.title }}</a></li>
                     {% endfor %}
                 </ul>
