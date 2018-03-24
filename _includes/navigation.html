@@ -17,11 +17,11 @@
 <nav>
     <ul>
     {% for entry in site.data.navigation %}
-        {% assign current = null %}
         
         {% assign sublinks = entry.sublinks %}
         
         {% if sublinks %}
+            {% assign current = null %}
             <li{{ current }}>
                 <a href="#" data-toggle="dropdown" class="dropdown-toggle">{{ entry.title }}<b class="caret"></b></a>
                 <!-- <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> -->
@@ -37,7 +37,6 @@
                             {% assign current = null %}
                         {% endif %} -->
                         <li><a href="{{ site.baseurl }}{{ sublink.url }}" target="{{ target }}">{{ sublink.title }}</a></li>
-                                {% assign current = null %}
                     {% endfor %}
                 </ul>
             </li>
