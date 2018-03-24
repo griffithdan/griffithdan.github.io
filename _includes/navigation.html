@@ -17,7 +17,8 @@
 <nav>
     <ul>
     {% for entry in site.data.navigation %}
-       
+        {% assign current = null %}
+        
         {% assign sublinks = entry.sublinks %}
         
         {% if sublinks %}
