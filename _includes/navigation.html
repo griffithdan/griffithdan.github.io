@@ -22,8 +22,8 @@
         
         {% if sublinks %}
             <li{{ current }}>
-                <a href="#" data-toggle="dropdown" class="dropdown-toggle">{{ entry.title }}<b class="caret"></b></a>
-                <!-- <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> -->
+                <!-- <a href="#" data-toggle="dropdown" class="dropdown-toggle">{{ entry.title }}<b class="caret"></b></a> -->
+                <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
                 <ul>
                     {% for sublink in sublinks %}
                         {% if sublink.url contains "http" %}
