@@ -16,6 +16,8 @@
  <nav class="navbar-collapse collapse" role="navigation">
               <ul class="nav navbar-nav navbar-right">
                   {% for entry in site.data.navigation %}
+                          {% if entry.url == current_page %}
+                          {% assign current = ' class="current"' %}                  
                   <li id="{{ entry.title | slugify }}">
                               {% assign sublinks = entry.sublinks %}
                               {% if sublinks %}
@@ -35,6 +37,7 @@
                       <a href="{{ entry.url }}" target="{{ target }}">{{ entry.title }}</a>
                       {% endif %}
                   </li>
+
                   {% endfor %}
               </ul>
           </nav><!--/.navbar-collapse -->
