@@ -17,10 +17,11 @@
               <ul class="nav navbar-nav navbar-right">
                   {% for entry in site.data.navigation.topnav %}
                   <li id="{{ entry.title | slugify }}">
-                      {% if entry.subcategories %}
+                              {% assign sublinks = entry.sublinks %}
+                              {% if sublinks %}
                       <a href="#" data-toggle="dropdown" class="dropdown-toggle">{{ entry.title }}<b class="caret"></b></a>
                       <ul class="dropdown-menu dropdown-left">
-                          {% for subitem in entry.subcategories %}
+                          {% for subitem in entry.sublinks %}
                           {% if subitem.url contains "http" %}
                           {% assign target = "_blank" %}{% else %}
                           {% assign target = "_self" %}{% endif %}
