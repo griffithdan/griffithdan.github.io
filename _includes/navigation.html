@@ -22,7 +22,7 @@
         
         {% if sublinks %}
             
-            <li{{ current }}>
+            <li>
                 <a href="#" data-toggle="dropdown" class="dropdown-toggle">{{ entry.title }}<b class="caret"></b></a>
                 <!-- <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> -->
                 <ul>
@@ -31,12 +31,12 @@
                           {% assign target = "_blank" %}{% else %}
                           {% assign target = "_self" %}
                         {% endif %}
-                        <!-- {% if sublink.url == current_page %}
+                        {% if sublink.url == current_page %}
                             {% assign current = ' class="current"' %}
                             {% else %}
                             {% assign current = null %}
-                        {% endif %} -->
-                        <li><a href="{{ site.baseurl }}{{ sublink.url }}" target="{{ target }}">{{ sublink.title }}</a></li>
+                        {% endif %}
+                        <li{{ current }}><a href="{{ site.baseurl }}{{ sublink.url }}" target="{{ target }}">{{ sublink.title }}</a></li>
                     {% endfor %}
                 </ul>
             </li>
