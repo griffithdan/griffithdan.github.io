@@ -15,7 +15,7 @@
 
  <nav class="navbar-collapse collapse" role="navigation">
               <ul class="nav navbar-nav navbar-right">
-                  {% for entry in site.data.navigation.topnav %}
+                  {% for entry in site.data.navigation %}
                   <li id="{{ entry.title | slugify }}">
                               {% assign sublinks = entry.sublinks %}
                               {% if sublinks %}
