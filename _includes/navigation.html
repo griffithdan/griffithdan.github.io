@@ -38,7 +38,7 @@
             <li>
                 <a href="#" data-toggle="dropdown" class="dropdown-toggle">{{ entry.title }}<b class="caret"></b></a>
                 <!-- <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> -->
-                <ul>
+                <ul class="dropdown-menu" data-role="dropdown">
                     {% for sublink in sublinks %}
                         {% if sublink.url contains "http" %}
                           {% assign target = "_blank" %}{% else %}
