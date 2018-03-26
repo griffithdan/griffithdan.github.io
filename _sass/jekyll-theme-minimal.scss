@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* DROPDOWN STYLES */
 .dropdown {
-  position: relative;
+  position: static;
 }
 .dropdown:active .drop-menu {
   display: block;
