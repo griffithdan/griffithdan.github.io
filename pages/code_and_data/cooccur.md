@@ -17,8 +17,8 @@ For more details on the R package please see: Griffith, D.M., J.A. Veech, and C.
 Install the R package cooccur and load it – The package can also be found here.
 
 ~~~
-install.packages("cooccur")
-library(cooccur)
+    install.packages("cooccur")
+    library(cooccur)
 ~~~
 {: .language-r}
 
@@ -43,7 +43,7 @@ The cooccur function returns a list of class “cooccur” that contains the res
 ## RETURN A SUMMARY OF SIGNIFICANT RESULTS
 
 ~~~
-summary(cooccur.finches)
+    summary(cooccur.finches)
 Call:
 cooccur(mat = finches, type = "spp_site", thresh = TRUE, spp_names = TRUE)
  
