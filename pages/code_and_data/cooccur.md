@@ -40,7 +40,7 @@ The cooccur function returns a list of class “cooccur” that contains the res
 
 ## RETURN A SUMMARY OF SIGNIFICANT RESULTS
 
-~~~
+```{r}
 R> summary(cooccur.finches)
 
 Call:
@@ -56,14 +56,15 @@ To return a table of species pairs and their co-occurrence statistics use the �
 ## RETURN A TABLE OF RESULTS
 
 ```{r}
-prob.table(cooccur.finches)
-You can visually interpret these co-occurrence results using plot().
+R> prob.table(cooccur.finches)
 ```
+
+You can visually interpret these co-occurrence results using plot().
 
 ## PLOT A VISUAL REPRESENTATIONS OF SPECIES CO-OCCURRENCES
 
 ```{r}
-plot(cooccur.finches) # add "plotrand = TRUE" to include completely random species
+R> plot(cooccur.finches) # add "plotrand = TRUE" to include completely random species
 ```
 
 Finally, to extract information for one individual species use the following:
@@ -71,7 +72,8 @@ Finally, to extract information for one individual species use the following:
 ## EXTRACT INFORMATION FOR A FOCAL SPECIES
 
 ```{r}
-pair(mod = cooccur.analysis, spp = "Geospiza scandens")
+R> pair(mod = cooccur.analysis, spp = "Geospiza scandens")
+
       Co-occurring Species f(Species 2) f(Cooccurrence) P(Cooccurrence) expected f(Cooccurrence)  P(low) P(high) P(Observed)
      Geospiza fuliginosa           14              13           0.630                     10.7 1.00000 0.00588     0.00588
        Geospiza scandens           12              12           0.540                      9.2 1.00000 0.00210     0.00210
