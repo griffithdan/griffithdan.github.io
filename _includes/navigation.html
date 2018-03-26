@@ -35,10 +35,10 @@
         
         {% if sublinks %}
             
-            <li>
-                <a href="#" data-toggle="dropdown" class="dropdown-toggle">{{ entry.title }}<b class="caret"></b></a>
+            <li class="dropdown">
+                <a href="#" class="drop-trigger">{{ entry.title }}<b class="caret"></b></a>
                 <!-- <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> -->
-                <ul class="dropdown-menu" data-role="dropdown">
+                <ul class="drop-menu">
                     {% for sublink in sublinks %}
                         {% if sublink.url contains "http" %}
                           {% assign target = "_blank" %}{% else %}
