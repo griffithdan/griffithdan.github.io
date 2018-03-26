@@ -30,7 +30,7 @@ Import a sample dataset on the occurrence of Galapagos finches and run the proba
 ~~~
 data(finches)
  
-cooccur.finches &lt;- cooccur(finches,
+cooccur.finches <- cooccur(finches,
                           type = "spp_site",
                           thresh = TRUE,
                           spp_names = TRUE)
