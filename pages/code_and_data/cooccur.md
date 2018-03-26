@@ -16,11 +16,10 @@ For more details on the R package please see: Griffith, D.M., J.A. Veech, and C.
 ## Instructions
 Install the R package cooccur and load it – The package can also be found here.
 
-~~~
+```{r}
 R> install.packages("cooccur")
 R> library(cooccur)
-~~~
-{: .language-r}
+```
 
 Import a sample dataset on the occurrence of Galapagos finches and run the probabilistic co-occurrence analysis. The dataset is arranged “spp_site” (row,col) with 0’s and 1’s representing absences and presences. Use a threshold “thresh=TRUE” to filter out species pairs that an not expected to co-occur more than once based on there occurrences. The dataset has species names in the data.frame row.names.
 
