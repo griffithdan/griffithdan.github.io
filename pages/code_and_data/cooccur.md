@@ -26,7 +26,7 @@ Import a sample dataset on the occurrence of Galapagos finches and run the proba
 
 ## LOAD finches AND RUN cooccur
  
-~~~
+```{r}
 R> data(finches)
  
 R> cooccur.finches <- cooccur(finches,
@@ -34,8 +34,7 @@ R>                           type = "spp_site",
 R>                           thresh = TRUE,
 R>                           spp_names = TRUE)
 R> class(cooccur.finches)
-~~~
-{: .language-r}
+```
 
 The cooccur function returns a list of class “cooccur” that contains the results of the analysis. We can use the summary method to get a read of number of positive, negative, random, and classifiable species pairs.
 
@@ -50,31 +49,28 @@ cooccur(mat = finches, type = "spp_site", thresh = TRUE, spp_names = TRUE)
 Cooccurrence Summary:
        Species          Sites       Positive       Negative         Random Non-random (%)
           13.0           17.0           14.0            1.0           49.0           23.4
-~~~
-{: .language-r}          
+```     
           
 To return a table of species pairs and their co-occurrence statistics use the “probtable()” function. The table has values for “p_lt” and “p_gt” which are the probabilities that the two species do not co-occur less or more frequently than expected.
 
 ## RETURN A TABLE OF RESULTS
 
-~~~
+```{r}
 prob.table(cooccur.finches)
 You can visually interpret these co-occurrence results using plot().
-~~~
-{: .language-r}  
+```
 
 ## PLOT A VISUAL REPRESENTATIONS OF SPECIES CO-OCCURRENCES
 
-~~~
+```{r}
 plot(cooccur.finches) # add "plotrand = TRUE" to include completely random species
-~~~
-{: .language-r} 
+```
 
 Finally, to extract information for one individual species use the following:
 
 ## EXTRACT INFORMATION FOR A FOCAL SPECIES
 
-~~~
+```{r}
 pair(mod = cooccur.analysis, spp = "Geospiza scandens")
       Co-occurring Species f(Species 2) f(Cooccurrence) P(Cooccurrence) expected f(Cooccurrence)  P(low) P(high) P(Observed)
      Geospiza fuliginosa           14              13           0.630                     10.7 1.00000 0.00588     0.00588
@@ -83,8 +79,7 @@ pair(mod = cooccur.analysis, spp = "Geospiza scandens")
  Camarhynchus psittacula           10              10           0.450                      7.6 1.00000 0.01471     0.01471
    Camarhynchus parvulus           10              10           0.450                      7.6 1.00000 0.01471     0.01471
 Platyspiza crassirostris           11              11           0.495                      8.4 1.00000 0.00630     0.00630
-~~~
-{: .language-r}
+```
 
 This is a basic tutorial of the use of the cooccur package. There is further documentation to come, but for now the other analysis and visualization functions included in the package are summarized in the table below and their usage defined in the manual.
 
