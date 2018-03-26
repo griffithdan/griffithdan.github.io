@@ -17,8 +17,8 @@ For more details on the R package please see: Griffith, D.M., J.A. Veech, and C.
 Install the R package cooccur and load it – The package can also be found here.
 
 ~~~
-    install.packages("cooccur")
-    library(cooccur)
+R> install.packages("cooccur")
+R> library(cooccur)
 ~~~
 {: .language-r}
 
@@ -28,13 +28,13 @@ Import a sample dataset on the occurrence of Galapagos finches and run the proba
 ## LOAD finches AND RUN cooccur
  
 ~~~
-data(finches)
+R> data(finches)
  
-cooccur.finches <- cooccur(finches,
-                          type = "spp_site",
-                          thresh = TRUE,
-                          spp_names = TRUE)
-class(cooccur.finches)
+R> cooccur.finches <- cooccur(finches,
+R>                           type = "spp_site",
+R>                           thresh = TRUE,
+R>                           spp_names = TRUE)
+R> class(cooccur.finches)
 ~~~
 {: .language-r}
 
@@ -43,7 +43,8 @@ The cooccur function returns a list of class “cooccur” that contains the res
 ## RETURN A SUMMARY OF SIGNIFICANT RESULTS
 
 ~~~
-    summary(cooccur.finches)
+R> summary(cooccur.finches)
+
 Call:
 cooccur(mat = finches, type = "spp_site", thresh = TRUE, spp_names = TRUE)
  
