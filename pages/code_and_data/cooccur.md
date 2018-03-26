@@ -67,7 +67,7 @@ You can visually interpret these co-occurrence results using plot().
 R> plot(cooccur.finches) # add "plotrand = TRUE" to include completely random species
 ```
 
-![metamap]({{ site.url }}/assets/metamap.png){:width="300px"}
+![metamap]({{ site.url }}/assets/metamap.png){:width="600px"}
 
 Finally, to extract information for one individual species use the following:
 
@@ -87,6 +87,6 @@ Platyspiza crassirostris           11              11           0.495           
 
 This is a basic tutorial of the use of the cooccur package. There is further documentation to come, but for now the other analysis and visualization functions included in the package are summarized in the table below and their usage defined in the manual.
 
-![function table]({{ site.url }}/assets/function_table.png){:width="300px"}
+![function table]({{ site.url }}/assets/function_table.png){:width="600px"}
 
 
