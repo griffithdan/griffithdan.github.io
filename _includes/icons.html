@@ -1,4 +1,4 @@
-{%- if site.github_username -%}<a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/icons.svg#github' | relative_url }}"></use></svg>Github</a>{%- endif -%}
-<br/>
-{%- if site.twitter_username -%}<a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/icons.svg#twitter' | relative_url }}"></use></svg>Twitter</a>{%- endif -%}
-
+<ul>
+  {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/icons.svg#github' | relative_url }}"></use></svg>Github</a></li>{%- endif -%}
+  {%- if site.twitter_username -%}<li><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/icons.svg#twitter' | relative_url }}"></use></svg>Twitter</a></li>{%- endif -%}
+</ul>
