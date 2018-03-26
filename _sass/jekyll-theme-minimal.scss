@@ -114,6 +114,17 @@ ul.icon-list li {
    margin:0 0 10px 0;   
 }
 
+ul.icon-list a {
+    color:#393939;
+    text-decoration: none;
+}
+ul.icon-list li.active a {
+    color: #727272;
+}
+
+ul.icon-list a:hover, a:focus {
+  color:#727272;
+}
 
 
 
