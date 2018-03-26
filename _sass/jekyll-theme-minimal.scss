@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* DROPDOWN STYLES */
 .dropdown {
-  position: static;
+  position: relative;
 }
 .dropdown:active .drop-menu {
   display: block;
@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
   border-color: #fff transparent transparent;
   content: "";
   height: 0;
-  position: absolute;
+  position: static;
   right: 0;
   top: 0.3em;
   width: 0;
