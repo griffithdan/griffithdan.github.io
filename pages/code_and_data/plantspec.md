@@ -3,4 +3,6 @@ layout: default
 title: Spectral Calibration
 ---
 
-coming soon...
+see [https://github.com/griffithdan/plantspec](https://github.com/griffithdan/plantspec)
+
+... more coming soon...
