@@ -15,6 +15,8 @@
       url: /pages/code_and_data/grass-map-demo.pdf      
     - title: GitHub
       url: https://github.com/griffithdan 
+    - title: Dryad
+      url: /pages/code_and_data/dryad.md 
 - title: Outreach
   url: /pages/outreach/outreach.html
   sublinks:
