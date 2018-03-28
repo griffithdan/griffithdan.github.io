@@ -3,7 +3,10 @@ layout: default
 title: Other
 ---
 
-coming soon...
+# Other outreach and media
 
-field course pictures,
-etc
+## Field course photos
+
+## Science comment
+
+... this page is in progress ...
