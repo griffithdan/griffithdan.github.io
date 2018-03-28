@@ -3,6 +3,8 @@ layout: default
 title: Dryad
 ---
 
+![code and data image]({{ site.url }}/assets/code-and-data.jpg){:width="900px"}
+
 # Dryad data DOI's
 
 ## Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? Oryx.
