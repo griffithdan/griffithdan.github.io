@@ -9,6 +9,7 @@ title: Other
 
 ## Field course photos
 
+| First Header  | Second Header | First Header  | Second Header |
 | --- | --- | --- | --- |
 | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) |
 | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) |
