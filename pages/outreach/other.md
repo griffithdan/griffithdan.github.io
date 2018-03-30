@@ -8,7 +8,15 @@ title: Other
 # Other outreach and media
 
 ## Field course photos
-![outreach image]({{ site.url }}/assets/outreach.jpg){:width="200px"}
+
+| --- | --- | --- | --- |
+| ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) |
+| ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) |
+| ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) |
+| ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) |
+| --- | --- | --- | --- |
+
+![outreach image]({{ site.url }}/assets/outreach.jpg)
 
 ***
 
