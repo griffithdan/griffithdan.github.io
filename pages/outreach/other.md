@@ -7,9 +7,13 @@ title: Other
 
 # Other outreach and media
 
+Check out some photos of our other outreach activities as well as some of our media!
+
 ## Field course photos
 
-| First Header  | Second Header | First Header  | Second Header |
+Photos from a two week field course that I lead for student from Dar es Salaam!
+
+|   |   |   |  |
 | --- | --- | --- | --- |
 | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) |
 | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) | ![outreach image]({{ site.url }}/assets/outreach.jpg) |
