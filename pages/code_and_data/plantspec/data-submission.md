@@ -1,4 +1,5 @@
 ---
+form: true
 layout: default
 title: plantspec Data Submission Portal
 ---
