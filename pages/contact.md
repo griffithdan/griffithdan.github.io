@@ -11,4 +11,4 @@ title: Contact
 Oregon State Unversity  
 Corvallis, OR, USA, 97333  
 E: griffith.dan@gmail.com; daniel.griffith@oregonstate.edu  
-W: https://griffithdan.github.io/
+W: griffithdan.github.io
