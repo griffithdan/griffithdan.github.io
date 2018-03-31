@@ -19,28 +19,28 @@ Still, C.J., J.M. Cotton, and **D.M. Griffith**. Assessing Earth System Model pr
 
 ## 2018
 
-(8) Anderson, T.M., **D.M. Griffith**, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology. ![Link to paper](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2175)
+(8) Anderson, T.M., **D.M. Griffith**, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology. [Link to paper](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2175)
 
 ## 2017
 
-(7) **Griffith, D.M.**, et al. Comment on “The extent of forest in dryland biomes” Science. ![Link to paper](http://science.sciencemag.org/content/358/6365/eaao1309/tab-pdf)
+(7) **Griffith, D.M.**, et al. Comment on “The extent of forest in dryland biomes” Science. [Link to paper](http://science.sciencemag.org/content/358/6365/eaao1309/tab-pdf)
 
-(6) **Griffith, D.M.**, J.M. Cotton, R.L. Powell, N.D. Sheldon, and C.J. Still. Multi-century stasis in C3 and C4 grass distributions across the contiguous United States since the industrial revolution. Journal of Biogeography. ![Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13061)
+(6) **Griffith, D.M.**, J.M. Cotton, R.L. Powell, N.D. Sheldon, and C.J. Still. Multi-century stasis in C3 and C4 grass distributions across the contiguous United States since the industrial revolution. Journal of Biogeography. [Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13061)
 
-(5) **Griffith, D.M.**, T.M. Anderson, and E.W. Hamilton III. Ungulate grazing drives higher ramet turnover in sodium adapted Serengeti grasses. Journal of Vegetation Science. ![Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.12526)
+(5) **Griffith, D.M.**, T.M. Anderson, and E.W. Hamilton III. Ungulate grazing drives higher ramet turnover in sodium adapted Serengeti grasses. Journal of Vegetation Science. [Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.12526)
 
 ## 2016
 
-(4) **Griffith, D.M.**, K. Quigley, and T.M. Anderson. Leaf thickness controls variation in leaf mass per area (LMA) among grazing-adapted grasses in Serengeti. Oecologia. ![Link to paper](https://link.springer.com/article/10.1007%2Fs00442-016-3632-3)
+(4) **Griffith, D.M.**, K. Quigley, and T.M. Anderson. Leaf thickness controls variation in leaf mass per area (LMA) among grazing-adapted grasses in Serengeti. Oecologia. [Link to paper](https://link.springer.com/article/10.1007%2Fs00442-016-3632-3)
 
 ## 2015
 
-(3) **Griffith, D.M.**, J.A. Veech, and C.J. Marsh. cooccur: Probabilistic Species Co-occurrence Analysis in R. J. Stat. Soft. ![Link to paper](https://www.jstatsoft.org/article/view/v069c02)
+(3) **Griffith, D.M.**, J.A. Veech, and C.J. Marsh. cooccur: Probabilistic Species Co-occurrence Analysis in R. J. Stat. Soft. [Link to paper](https://www.jstatsoft.org/article/view/v069c02)
 
 ## 2014
 
-(2) **Griffith, D.M.**, T.M. Anderson, C.P. Osborne, C.A.E. Stromberg, E.J. Forrestel, and C.J. Still. Biogeographically distinct controls on C3 and C4 grass distributions: merging community with physiological ecology. Global Ecology and Biogeography. ![Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12265)
+(2) **Griffith, D.M.**, T.M. Anderson, C.P. Osborne, C.A.E. Stromberg, E.J. Forrestel, and C.J. Still. Biogeographically distinct controls on C3 and C4 grass distributions: merging community with physiological ecology. Global Ecology and Biogeography. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12265)
 
 ## 2013
 
-(1) **Griffith, D.M.**, and T.M. Anderson. 2013. Responses of African grasses in the genus Sporobolus to defoliation and sodium stress: tradeoffs, cross-tolerance, or independent responses? Plants 2:712-725. ![Link to paper](https://www.ncbi.nlm.nih.gov/pubmed/27137400)
+(1) **Griffith, D.M.**, and T.M. Anderson. 2013. Responses of African grasses in the genus Sporobolus to defoliation and sodium stress: tradeoffs, cross-tolerance, or independent responses? Plants 2:712-725. [Link to paper](https://www.ncbi.nlm.nih.gov/pubmed/27137400)
