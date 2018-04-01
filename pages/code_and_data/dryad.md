@@ -13,4 +13,4 @@ Manuscript currently *in press*. Data will be available on Dryad as soon as the 
 
 ## Anderson, T.M., **D.M. Griffith**, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology.
 
-Manuscript currently *in press*. Data will be available on Dryad as soon as the manuscript is published in an issue. This dataset includes stoichiometric data for plants collected from globally distributed sites, predicted using my R package.
+This dataset includes stoichiometric data for plants collected from globally distributed sites, predicted using my R package. The dataset can be found at [https://datadryad.org//resource/doi:10.5061/dryad.mq56q](https://datadryad.org//resource/doi:10.5061/dryad.mq56q).
