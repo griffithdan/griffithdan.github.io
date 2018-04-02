@@ -11,10 +11,10 @@ This R script implements the probabilistic model of species co-occurrence (Veech
 
 For more information on the model refer to: Veech (2013), A probabilistic model for analysing species co-occurrence, Global Ecology and Biogeography, DOI: 10.1111/j.1466-8238.2012.00789.x
 
-For more details on the R package please see: Griffith, D.M., J.A. Veech, and C.J. Marsh. cooccur: Probabilistic Species Co-occurrence Analysis in R. J. Stat. Soft. Link to paper and the manual for the R package.
+For more details on the R package please see: Griffith, D.M., J.A. Veech, and C.J. Marsh. cooccur: Probabilistic Species Co-occurrence Analysis in R. J. Stat. Soft. [Link to paper and the manual for the R package.](https://www.jstatsoft.org/article/view/v069c02)
 
 ## Instructions
-Install the R package cooccur and load it – The package can also be found here.
+Install the R package cooccur and load it – The [development version](https://github.com/griffithdan/cooccur) can also be installed from GitHub.
 
 ```{r}
 R> install.packages("cooccur")
