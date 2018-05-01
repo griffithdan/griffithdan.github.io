@@ -7,7 +7,9 @@ title: Publications
 
 ## In review
 
-Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In review, Ecology Letters.
+**Griffith, D.M** and T.M. Anderson. The ‘plantspec’ R package: a tool for spectral analysis of plant stoichiometry. Submitted to Methods in Ecology and Evolution
+
+Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In review.
 
 Still, C.J., J.M. Cotton, and **D.M. Griffith**. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Submitted to Global Ecology and Biogeography.
 
