@@ -7,6 +7,8 @@ title: Publications
 
 ## In review
 
+Bachle, S., **D.M. Griffith**, and J.B. Nippert. Intraspecific trait variation and ecosystem function: a literature review of a dominant US Great Plains. Submitted to Frontiers in Ecology and Evolution.
+
 **Griffith, D.M** and T.M. Anderson. The ‘plantspec’ R package: a tool for spectral analysis of plant stoichiometry. Submitted to Methods in Ecology and Evolution
 
 Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In review.
