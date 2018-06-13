@@ -12,9 +12,7 @@
     - title: Spectral calibration
       url: /pages/code_and_data/plantspec.html
     - title: Isoscapes
-      url: /pages/code_and_data/grass-map-demo.pdf 
-    - title: r3PG
-      url: /pages/code_and_data/r3PG-vignette.html       
+      url: /pages/code_and_data/grass-map-demo.pdf      
     - title: GitHub
       url: https://github.com/griffithdan 
     - title: Dryad
