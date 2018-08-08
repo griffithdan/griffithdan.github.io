@@ -13,11 +13,10 @@ Bachle, S., **D.M. Griffith**, and J.B. Nippert. Intraspecific trait variation a
 
 Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In review.
 
-Still, C.J., J.M. Cotton, and **D.M. Griffith**. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Submitted to Global Ecology and Biogeography.
-
 **Griffith, D.M.**, and T.M. Anderson. Species distributions across metacommunities are spatially aggregated: a multi-taxa meta-analysis.
 
 ## In press
+(10) Still, C.J., J.M. Cotton, and **D.M. Griffith**. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Submitted to Global Ecology and Biogeography.
 
 (9) Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? Oryx.
 
