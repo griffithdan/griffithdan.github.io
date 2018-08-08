@@ -11,7 +11,7 @@ title: CV
 Oregon State Unversity  
 Corvallis, OR, USA, 97333  
 E: griffith.dan@gmail.com; daniel.griffith@oregonstate.edu  
-W: danielmgriffith.wordpress.com  
+W: griffithdan.github.io
 
 ## EDUCATION
 
