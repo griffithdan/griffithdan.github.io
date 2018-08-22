@@ -34,7 +34,6 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)
 
 ## PUBLICATIONS
 Still, C.J., J.M. Cotton, and D.M. Griffith. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. In press, Global Ecology and Biogeography.
-
 Anderson, T.M., P.M. Ngoti, M.L. Nzunda, D.M. Griffith, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? In press, Oryx.  
 Anderson, T.M., D.M. Griffith, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology. In press  
 Griffith, D.M., C.E.R. Lehmann, C.A.E. Strömberg, C.L. Parr, R.T. Pennington, M. Sankaran, J. Ratnam, C.J. Still, R.L. Powell, N.P. Hanan, J.B. Nippert, C.P. Osborne, S. Good, T.M. Anderson, R. Holdo, J.W. Veldman, G. Durigan, K.W. Tomlinson, W.A. Hoffmann, S. Archibald, and W.J. Bond. Comment on “The extent of forest in dryland biomes.” Science.  
