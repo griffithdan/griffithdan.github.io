@@ -16,9 +16,9 @@ Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrien
 **Griffith, D.M.**, and T.M. Anderson. Species distributions across metacommunities are spatially aggregated: a multi-taxa meta-analysis.
 
 ## In press
-(10) Still, C.J., J.M. Cotton, and **D.M. Griffith**. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Submitted to Global Ecology and Biogeography.
+(10) Still, C.J., J.M. Cotton, and **D.M. Griffith**. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Global Ecology and Biogeography.
 
-(9) Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? Oryx.
+(9) Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? Oryx. [Link to paper](https://www.cambridge.org/core/journals/oryx/article/burning-question-does-fire-affect-habitat-selection-and-forage-preference-of-the-black-rhinoceros-diceros-bicornis-in-east-african-savannahs/C6095D3496315C71D2237F8B65CDD2A7)
 
 ## 2018
 
