@@ -7,8 +7,6 @@ title: Publications
 
 ## In review
 
-Bachle, S., **D.M. Griffith**, and J.B. Nippert. Intraspecific trait variation and ecosystem function: a literature review of a dominant US Great Plains. Submitted to Frontiers in Ecology and Evolution.
-
 **Griffith, D.M** and T.M. Anderson. The ‘plantspec’ R package: a tool for spectral analysis of plant stoichiometry. Submitted to Methods in Ecology and Evolution
 
 Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In review.
@@ -16,11 +14,14 @@ Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrien
 **Griffith, D.M.**, and T.M. Anderson. Species distributions across metacommunities are spatially aggregated: a multi-taxa meta-analysis.
 
 ## In press
-(10) Still, C.J., J.M. Cotton, and **D.M. Griffith**. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Global Ecology and Biogeography.
 
-(9) Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? Oryx. [Link to paper](https://www.cambridge.org/core/journals/oryx/article/burning-question-does-fire-affect-habitat-selection-and-forage-preference-of-the-black-rhinoceros-diceros-bicornis-in-east-african-savannahs/C6095D3496315C71D2237F8B65CDD2A7)
+(11) Bachle, S., **D.M. Griffith**, and J.B. Nippert. Intraspecific trait variation and ecosystem function: a literature review of a dominant US Great Plains. Frontiers in Ecology and Evolution.
 
 ## 2018
+
+(10) Still, C.J., J.M. Cotton, and **D.M. Griffith**. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Global Ecology and Biogeography. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12830)
+
+(9) Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? Oryx. [Link to paper](https://www.cambridge.org/core/journals/oryx/article/burning-question-does-fire-affect-habitat-selection-and-forage-preference-of-the-black-rhinoceros-diceros-bicornis-in-east-african-savannahs/C6095D3496315C71D2237F8B65CDD2A7)
 
 (8) Anderson, T.M., **D.M. Griffith**, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology. [Link to paper](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2175)
 
