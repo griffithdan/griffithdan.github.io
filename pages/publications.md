@@ -7,13 +7,13 @@ title: Publications
 
 ## In review
 
-**Griffith, D.M** and T.M. Anderson. The ‘plantspec’ R package: a tool for spectral analysis of plant stoichiometry. Submitted to Methods in Ecology and Evolution
-
 Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In review.
 
 **Griffith, D.M.**, and T.M. Anderson. Species distributions across metacommunities are spatially aggregated: a multi-taxa meta-analysis.
 
 ## In press
+
+(12) **Griffith, D.M** and T.M. Anderson. The ‘plantspec’ R package: a tool for spectral analysis of plant stoichiometry. Methods in Ecology and Evolution
 
 (11) Bachle, S., **D.M. Griffith**, and J.B. Nippert. Intraspecific trait variation and ecosystem function: a literature review of a dominant US Great Plains. Frontiers in Ecology and Evolution.
 
