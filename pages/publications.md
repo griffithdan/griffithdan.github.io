@@ -13,7 +13,7 @@ Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrien
 
 ## 2019
 
-(12) **Griffith, D.M** and Anderson TM. 2019. The ‘plantspec’ r package: A tool for spectral analysis of plant stoichiometry. Methods Ecol Evol. 00:1–7. [Link to paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13143) [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/plantspec.html)
+(12) **Griffith, D.M** and Anderson TM. 2019. The ‘plantspec’ r package: A tool for spectral analysis of plant stoichiometry. Methods Ecol Evol. 00:1–7. [Link to paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13143) | [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/plantspec.html)
 
 ## 2018
 
