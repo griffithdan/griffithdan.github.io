@@ -33,16 +33,18 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2009)
 NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)  
 
 ## PUBLICATIONS
-* Still, C.J., J.M. Cotton, and D.M. Griffith. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. In press, Global Ecology and Biogeography.
-* Anderson, T.M., P.M. Ngoti, M.L. Nzunda, D.M. Griffith, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? In press, Oryx.  
-* Anderson, T.M., D.M. Griffith, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology. In press  
-* Griffith, D.M., C.E.R. Lehmann, C.A.E. Strömberg, C.L. Parr, R.T. Pennington, M. Sankaran, J. Ratnam, C.J. Still, R.L. Powell, N.P. Hanan, J.B. Nippert, C.P. Osborne, S. Good, T.M. Anderson, R. Holdo, J.W. Veldman, G. Durigan, K.W. Tomlinson, W.A. Hoffmann, S. Archibald, and W.J. Bond. Comment on “The extent of forest in dryland biomes.” Science.  
-* Griffith, D.M., J.M. Cotton, R.L. Powell, N.D. Sheldon, and C.J. Still. Multi-century stasis in C3 and C4 grass distributions across the contiguous United States since the industrial revolution. Journal of Biogeography.  
-* Griffith, D.M., T.M. Anderson, and E.W. Hamilton III. Ungulate grazing drives higher ramet turnover in sodium adapted Serengeti grasses. In press, Journal of Vegetation Science.  
-* Griffith, D.M., K.M. Quigley, and T.M. Anderson. Leaf thickness controls variation in leaf mass per area (LMA) among grazing-adapted grasses in Serengeti. Oecologia 1-6.  
-* Griffith, D.M., J.A. Veech, and C.J. Marsh. cooccur: Probabilistic Species Co-occurrence Analysis in R. J. Stat. Soft 69:1-17.  
-* Griffith, D.M., T.M. Anderson, C.P. Osborne, C.A.E. Stromberg, E.J. Forrestel, and C.J. Still. Biogeographically distinct controls on C3 and C4 grass distributions: merging community with physiological ecology. Global Ecology and Biogeography 24:304-313.  
-* Griffith, D.M., and T.M. Anderson. 2013. Responses of African grasses in the genus Sporobolus to defoliation and sodium stress: tradeoffs, cross-tolerance, or independent responses? Plants 2:712-725.  
+(12) **Griffith, D.M** and Anderson TM. 2019. The ‘plantspec’ r package: A tool for spectral analysis of plant stoichiometry. Methods Ecol Evol. 00:1–7. [Link to paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13143) - [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/plantspec.html)
+(11) Bachle, S., **D.M. Griffith**, and Nippert, J.B. 2018. Intraspecific trait variability in Andropogon gerardii, a dominant grass species in the US Great Plains. Frontiers in Ecology and Evolution, 6, p.217. [Link to paper](https://www.frontiersin.org/articles/10.3389/fevo.2018.00217/full) 
+(10) Still, C.J., J.M. Cotton, and **D.M. Griffith**. 2018. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Global Ecology and Biogeography, 24: 304-313. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12830) 
+(9) Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. 2018. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? Oryx, 1-10. [Link to paper](https://doi.org/10.1017/S00306053180003887) 
+(8) Anderson, T.M., **D.M. Griffith**, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology, 99: 822-831. [Link to paper](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2175) 
+(7) **Griffith, D.M.**, Lehmann, C.E., Strömberg, C.A., Parr, C.L., Pennington, R.T., Sankaran, M., Ratnam, J., Still, C.J., Powell, R.L., Hanan, N.P. and Nippert, J.B., 2017. Comment on “The extent of forest in dryland biomes”. Science, 358(6365), p.eaao1309. [Link to paper](http://science.sciencemag.org/content/358/6365/eaao1309/tab-pdf) 
+(6) **Griffith, D.M.**, J.M. Cotton, R.L. Powell, N.D. Sheldon, and C.J. Still. 2017. Multi-century stasis in C3 and C4 grass distributions across the contiguous United States since the industrial revolution. Journal of Biogeography, 44:2564–2574. [Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13061) 
+(5) **Griffith, D.M.**, T.M. Anderson, and E.W. Hamilton III. 2017. Ungulate grazing drives higher ramet turnover in sodium adapted Serengeti grasses. Journal of Vegetation Science, 28: 815-823. [Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.12526) 
+(4) **Griffith, D.M.**, K. Quigley, and T.M. Anderson. 2016. Leaf thickness controls variation in leaf mass per area (LMA) among grazing-adapted grasses in Serengeti. Oecologia, 181:1035-1040. [Link to paper](https://link.springer.com/article/10.1007%2Fs00442-016-3632-3) 
+(3) **Griffith, D.M.**, J.A. Veech, and C.J. Marsh. 2015. cooccur: Probabilistic Species Co-occurrence Analysis in R. J. Stat. Soft. [Link to paper](https://www.jstatsoft.org/article/view/v069c02) - [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/cooccur.html)
+(2) **Griffith, D.M.**, T.M. Anderson, C.P. Osborne, C.A.E. Stromberg, E.J. Forrestel, and C.J. Still. 2014. Biogeographically distinct controls on C3 and C4 grass distributions: merging community with physiological ecology. Global Ecology and Biogeography, 24: 304-313. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12265) 
+(1) **Griffith, D.M.**, and T.M. Anderson. 2013. Responses of African grasses in the genus Sporobolus to defoliation and sodium stress: tradeoffs, cross-tolerance, or independent responses? Plants 2:712-725. [Link to paper](https://www.ncbi.nlm.nih.gov/pubmed/27137400) 
 
 ## PRESENTATIONS AND POSTERS
 Griffith, D.M., C.J. Still, C.E.R. Lehmann, J.B. Nippert, E. Edwards, T.M Anderson, S. Pau, M. Ungerer, F. Qiu, S. Bachle, E. Forrestel, C. Strömberg, L. Leatherman, L. Taylor, D.J. Beerling, and C.P. Osborne. Leveraging functional diversity among grass lineages to enhance the representation ecological behavior in Earth System models. ESA (Oral)  
@@ -89,7 +91,7 @@ Sigma Xi (Since 2009)
 Vassar Biology co-chair of Majors Committee
 
 ## TEACHING
-- Developed course materials for isoscape generation in terrestrial and marine systems (U. of Utah SPATIAL course 2017)  
+- Developed course materials for isoscape generation in terrestrial and marine systems (U. of Utah SPATIAL course 2017, 2018)  
 - Genetics Lab BIO213 (2015 – 2016)  
 - Savanna Web scientist (2015) – Live and interactive video presentations from Serengeti National Park for K-12 classes in the U.S., via satellite
 - Conservation Earth Day Workshop, Four Seasons Serengeti (2015)
