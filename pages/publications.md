@@ -39,7 +39,7 @@ Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrien
 
 ## 2015
 
-(3) **Griffith, D.M.**, J.A. Veech, and C.J. Marsh. 2015. cooccur: Probabilistic Species Co-occurrence Analysis in R. J. Stat. Soft. [Link to paper](https://www.jstatsoft.org/article/view/v069c02)
+(3) **Griffith, D.M.**, J.A. Veech, and C.J. Marsh. 2015. cooccur: Probabilistic Species Co-occurrence Analysis in R. J. Stat. Soft. [Link to paper](https://www.jstatsoft.org/article/view/v069c02) | [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/cooccur.html)
 
 ## 2014
 
