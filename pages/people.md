@@ -1,0 +1,10 @@
+---
+layout: default
+title: People
+---
+
+![publications image]({{ site.url }}/assets/publications.jpg){:width="900px"}
+
+## Collaborations
+
+ 
