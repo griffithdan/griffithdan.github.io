@@ -8,3 +8,6 @@ title: People
 ## Collaborations
 
 Lila Leatherman [website](https://lleather.github.io/)
+
+Seton Bachle [website](https://setonbachle20.wixsite.com/plantecomicrophys)
+
