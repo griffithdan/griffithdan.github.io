@@ -7,7 +7,7 @@ title: People
 
 ## Collaborations
 
-Lila Leatherman [website](https://lleather.github.io/)
+Lila Leatherman, Oregon State University, PhD student: [website](https://lleather.github.io/)
 
-Seton Bachle [website](https://setonbachle20.wixsite.com/plantecomicrophys)
+Seton Bachle, Kansas State University, PhD student: [website](https://setonbachle20.wixsite.com/plantecomicrophys)
 
