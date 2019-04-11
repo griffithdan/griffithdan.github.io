@@ -7,6 +7,10 @@ title: Publications
 
 ## In review and in press
 
+**Griffith, D.M.**, C.J. Still, and C.P. Osborne. Revisiting the biome concept with a functional lens. In press, Frontiers in Ecology and Evolution.
+
+Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review Ecography
+
 Lehmann, C., **D.M. Griffith**, and the “C4 origins NESCent consortium.” Functional diversification enabled grassy biomes to fill global climate space. In review PNAS.
 
 Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In revision. Ecology
