@@ -79,12 +79,21 @@ Griffith, D.M. 2010. Spartina alternaflora’s peculiar relationship with sulfid
 Griffith, D.M. 2009. BiTT: teaching with research. Teaching for Technology Conference (poster)  
 Griffith, D.M. 2009. A User-Friendly Bioinformatics Pipeline. Hudson Valley Life Sciences Conf. (poster)  
 
-## JOURNALS REVIEWED FOR
-Proceedings of the National Academy of Sciences, Nature, Ecology Letters, New Phytologist, Methods in Ecology and Evolution, Global Change Biology, Journal of Biogeography, Botany, PLoS ONE, Plant Ecology, Plant and Soil, Annals of Botany, Grassland Science, Ecosystems, Journal of Vegetation Science, Quaternary Research, and 12 other journals.  
+## SERVICE
+### Journals reviewed for
+Proceedings of the National Academy of Sciences, Nature, Ecology Letters, New Phytologist, Methods in Ecology and Evolution, Global Change Biology, Journal of Biogeography, Botany, PLoS ONE, Plant Ecology, Plant and Soil, Annals of Botany, Grassland Science, Ecosystems, Journal of Vegetation Science, Quaternary Research, and 13 other journals.  
 
-## EDITORIAL
+### Editorial
 Lead Guest Associate Editor for Biogeography and Macroecology, Frontiers in Ecology and Evolution, in collaboration with co-editors Colin P Osborne and Christopher J Still, for a special issue entitled “Revisiting the Biome Concept with a Functional Lens.” 
-Author of: Griffith & Still (2017) “Cyberinfrastructure challenges at the crossroads of evolution and ecosystem sciences” NSF CI 2030 Request for Information 
+
+### Other service
+Working groups: NESCent “Origins of C4 Grasslands” 2013, 2014, 2015 in Durham, NC; USDA “Grazing Consortium” 2019 in Sevilleta National Wildlife Refuge, NM.
+Griffith D.M. & Still (2017) “Cyberinfrastructure challenges at the crossroads of evolution and ecosystem sciences” NSF CI 2030 Request for Information
+Leander, A., D.M. Griffith, J. Cavender-Bares, W. Riley, and C.J. Still (2019) “Representing plant diversity using evolutionary lineages to improve carbon cycle predictions” NASA Whitepaper
+Griffith, D.M. et al (2019) “Technical report: R ‘plantspec’ package: a tool for spectral analysis of plant stoichiometry”
+Griffith, D.M. et al (2018) “Technical report: R ‘grassmapr’ package: Modeling the terrestrial distribution of plant carbon stable isotopes in R”
+Griffith, D.M. et al (2016) “Technical report: R 'cooccur' package: Probabilistic Species Co-occurrence Analysis in R”
+As the maintainer for five R packages I have helped over 100 colleagues, ranging from undergraduates to senior scientists, work through their data analyses.
 
 ## GRANTS AWARDED
 NSF GRFP: ~$150k  
