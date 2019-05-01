@@ -33,6 +33,8 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2009)
 NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)  
 
 ## PUBLICATIONS
+(13) **Griffith, D.M.**, C.J. Still, and C.P. Osborne. 2019. Editorial: Revisiting the biome concept with a functional lens. Frontiers in Ecology and Evolution. [Link to paper](https://www.frontiersin.org/articles/10.3389/fevo.2019.00144/full)
+
 (12) **Griffith, D.M** and Anderson TM. 2019. The ‘plantspec’ r package: A tool for spectral analysis of plant stoichiometry. Methods Ecol Evol. 00:1–7. [Link to paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13143) - [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/plantspec.html)
 
 (11) Bachle, S., **D.M. Griffith**, and Nippert, J.B. 2018. Intraspecific trait variability in Andropogon gerardii, a dominant grass species in the US Great Plains. Frontiers in Ecology and Evolution, 6, p.217. [Link to paper](https://www.frontiersin.org/articles/10.3389/fevo.2018.00217/full) 
@@ -57,7 +59,10 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)
 
 (1) **Griffith, D.M.**, and T.M. Anderson. 2013. Responses of African grasses in the genus Sporobolus to defoliation and sodium stress: tradeoffs, cross-tolerance, or independent responses? Plants 2:712-725. [Link to paper](https://www.ncbi.nlm.nih.gov/pubmed/27137400) 
 
+(Book) **Griffith, D.M.**, C.J. Still, and C.P. Osborne. 2019. eBook: Revisiting the biome concept with a functional lens. Frontiers in Ecology and Evolution. [Link to eBook](https://www.frontiersin.org/articles/10.3389/fevo.2019.00144/full)
+
 ## PRESENTATIONS AND POSTERS
+Griffith, D.M. 2018. From blade to biosphere: linking grassland community ecology to macrosystems ecology. Kanas State University Department Seminar (Invited Talk)
 Griffith, D.M., C.J. Still, C.E.R. Lehmann, J.B. Nippert, E. Edwards, T.M Anderson, S. Pau, M. Ungerer, F. Qiu, S. Bachle, E. Forrestel, C. Strömberg, L. Leatherman, L. Taylor, D.J. Beerling, and C.P. Osborne. Leveraging functional diversity among grass lineages to enhance the representation ecological behavior in Earth System models. ESA (Oral)  
 Griffith, D.M., J.M. Cotton, R.L. Powell, N. Sheldon, and C.J. Still 2016. Multi-century stasis in C3 and C4 grass distributions across the contiguous United States since the industrial revolution. ICWEBS (Poster)  
 Griffith, D.M. & Still (2017) “Cyberinfrastructure challenges at the crossroads of evolution and ecosystem sciences” NSF CI 2030 Request for Information (dear colleague letter)  
