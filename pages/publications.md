@@ -17,7 +17,7 @@ Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrien
 
 ## 2019
 
-(13) **Griffith, D.M.**, C.J. Still, and C.P. Osborne. Revisiting the biome concept with a functional lens. In press, Frontiers in Ecology and Evolution. [Link to paper](https://www.frontiersin.org/articles/10.3389/fevo.2019.00144/full)
+(13) **Griffith, D.M.**, C.J. Still, and C.P. Osborne. Editorial: Revisiting the biome concept with a functional lens. Frontiers in Ecology and Evolution. [Link to paper](https://www.frontiersin.org/articles/10.3389/fevo.2019.00144/full)
 
 (12) **Griffith, D.M** and Anderson TM. 2019. The ‘plantspec’ r package: A tool for spectral analysis of plant stoichiometry. Methods Ecol Evol. 00:1–7. [Link to paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13143) - [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/plantspec.html)
 
@@ -54,3 +54,7 @@ Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrien
 ## 2013
 
 (1) **Griffith, D.M.**, and T.M. Anderson. 2013. Responses of African grasses in the genus Sporobolus to defoliation and sodium stress: tradeoffs, cross-tolerance, or independent responses? Plants 2:712-725. [Link to paper](https://www.ncbi.nlm.nih.gov/pubmed/27137400) 
+
+## Books
+
+**Griffith, D.M.**, C.J. Still, and C.P. Osborne. 2019. Revisiting the biome concept with a functional lens. eBook in Frontiers in Ecology and Evolution. [Link to ebook](https://www.frontiersin.org/articles/10.3389/fevo.2019.00144/full)
