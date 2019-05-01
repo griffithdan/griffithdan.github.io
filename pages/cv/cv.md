@@ -86,7 +86,7 @@ Proceedings of the National Academy of Sciences, Nature, Ecology Letters, New Ph
 ### Editorial
 Lead Guest Associate Editor for Biogeography and Macroecology, Frontiers in Ecology and Evolution, in collaboration with co-editors Colin P Osborne and Christopher J Still, for a special issue entitled “Revisiting the Biome Concept with a Functional Lens.” 
 
-### Other service
+### Other
 Working groups: NESCent “Origins of C4 Grasslands” 2013, 2014, 2015 in Durham, NC; USDA “Grazing Consortium” 2019 in Sevilleta National Wildlife Refuge, NM.
 Griffith D.M. & Still (2017) “Cyberinfrastructure challenges at the crossroads of evolution and ecosystem sciences” NSF CI 2030 Request for Information
 Leander, A., D.M. Griffith, J. Cavender-Bares, W. Riley, and C.J. Still (2019) “Representing plant diversity using evolutionary lineages to improve carbon cycle predictions” NASA Whitepaper
