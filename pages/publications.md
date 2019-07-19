@@ -27,7 +27,7 @@ Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrien
 
 (10) Still, C.J., J.M. Cotton, and **D.M. Griffith**. 2018. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Global Ecology and Biogeography, 24: 304-313. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12830) 
 
-(9) Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. 2018. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? Oryx, 1-10. [Link to paper](https://doi.org/10.1017/S00306053180003887) 
+(9) Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fossøy, E. Røskaft and B.J. Graae. 2018. The burning question: does fire affect habitat selection and forage preference of black rhinos (Diceros bicornis) in Serengeti National Park? Oryx, 1-10. [Link to paper](https://doi.org/10.1017/S0030605318000388) 
 
 (8) Anderson, T.M., **D.M. Griffith**, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology, 99: 822-831. [Link to paper](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2175) 
 
