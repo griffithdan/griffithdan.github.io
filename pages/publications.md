@@ -17,6 +17,8 @@ Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrien
 
 ## 2019
 
+(14) Veldman, J.W., J.C. Aleman, S.T. Alvarado, T.M. Anderson, S. Archibald7, W.J. Bond, T.W. Boutton, N. Buchmann, E. Buisson, J.G. Canadell, M. Sá Dechoum, M.H. Diaz-Toribio, G. Durigan, J.J. Ewel, G.W. Fernandes, A. Fidelis, F. Fleischman, S.P. Good, **D.M. Griffith**, J. Hermann, W.A. Hoffmann, S. Le Stradic, C.E.R. Lehmann, G. Mahy, A.N. Nerlekar, J.B. Nippert, R.F. Noss, C.P. Osborne, G.E. Overbeck, C.L. Parr, J.G. Pausas, R.T. Pennington, M.P. Perring, F.E. Putz, J. Ratnam, M. Sankaran, I.B. Schmidt, C.B. Schmitt, F.A.O. Silveira, A.C. Staver, N. Stevens, C.J. Still, C.A.E. Strömberg, V.M. Temperton, J.M. Varner, N.P. Zaloumis. Comment on “The global tree restoration potential” Science, 366(6463) eaay7976. [Link to paper](https://science.sciencemag.org/content/366/6463/eaay7976)
+
 (13) **Griffith, D.M.**, C.J. Still, and C.P. Osborne. 2019. Editorial: Revisiting the biome concept with a functional lens. Frontiers in Ecology and Evolution. [Link to paper](https://www.frontiersin.org/articles/10.3389/fevo.2019.00144/full)
 
 (12) **Griffith, D.M** and Anderson TM. 2019. The ‘plantspec’ r package: A tool for spectral analysis of plant stoichiometry. Methods Ecol Evol. 00:1–7. [Link to paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13143) - [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/plantspec.html)
