@@ -7,7 +7,7 @@ title: CV
 
 # CV
 
-350 N Akron Rd, NASA Ames Research Center
+350 N Akron Rd, NASA Ames Research Center  
 Moffett Field, CA, USA, 94035  
 E: griffith.dan@gmail.com  
 W: griffithdan.github.io
