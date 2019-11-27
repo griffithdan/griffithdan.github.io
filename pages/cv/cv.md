@@ -106,7 +106,7 @@ Griffith, D.M. et al (2016) “Technical report: R 'cooccur' package: Probabilis
 As the maintainer for five R packages I have helped over 100 colleagues, ranging from undergraduates to senior scientists, work through their data analyses.  
 
 ## GRANTS AWARDED
-NSF Macrosystems Biology and NEON Science
+NSF Macrosystems Biology and NEON Science  
 NSF GRFP: ~$150k  
 NESCent Fellowship: $15k  
 BSA Research Award: $500  
