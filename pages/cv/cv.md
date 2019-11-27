@@ -7,11 +7,15 @@ title: CV
 
 # CV
 
+350 N Akron Rd, NASA Ames Research Center
+Moffett Field, CA, USA, 94035
+E: griffith.dan@gmail.com 
+W: griffithdan.github.io
+
 321 Richardson Hall, Department of Forest Ecosystems and Society  
 Oregon State Unversity  
 Corvallis, OR, USA, 97333  
-E: griffith.dan@gmail.com; daniel.griffith@oregonstate.edu  
-W: griffithdan.github.io
+E: daniel.griffith@oregonstate.edu  
 
 ## EDUCATION
 
@@ -23,7 +27,8 @@ Vassar College, Biology, B.A. (2006 – 2010)
 – “Spartina alterniflora’s peculiar relationship with sulfide”  
 
 ## PROFESSIONAL APPOINTMENTS
-Oregon State University, Postdoctoral Research Associate (2016 – present)  
+NASA Ames Research Center, Research Ecologist and Interagency NASA-USGS Postdoctoral Research Fellow (2019 – present)  
+Oregon State University, Postdoctoral Research Associate (2016 – 2019)  
 National Science Foundation, Graduate Research Fellowship (2011 – 2015)  
 National Evolutionary Synthesis Center, Graduate Research Fellowship (2012)  
 Laboratory Technician, Belle Baruch Marine Laboratory (2010)  
@@ -64,6 +69,9 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)
 (Book) **Griffith, D.M.**, C.J. Still, and C.P. Osborne. 2019. eBook: Revisiting the biome concept with a functional lens. Frontiers in Ecology and Evolution. [Link to eBook](https://www.frontiersin.org/articles/10.3389/fevo.2019.00144/full)
 
 ## PRESENTATIONS AND POSTERS
+Griffith, D.M. 2019. Advancing Ecosystem Science with Phylogeny and Remote Sensing of Functional Diversity. NASA Jet Propulsion Laboratory - Carbon Club Seminar (Invited Talk)
+Griffith, D.M. 2019. A Lineage-based Framework to Advance Ecosystem Science with Remotely Sensed Functional Diversity. USGS and NASA-Ames Research Center Seminar (Invited Talk)
+Griffith, D.M. 2019. Quantitative grassland ecology: linking community and macrosystems ecology. Morton Arboretum, Research Department Seminar (Invited Talk)
 Griffith, D.M. 2018. From blade to biosphere: linking grassland community ecology to macrosystems ecology. Kanas State University Department Seminar (Invited Talk)
 Griffith, D.M., C.J. Still, C.E.R. Lehmann, J.B. Nippert, E. Edwards, T.M Anderson, S. Pau, M. Ungerer, F. Qiu, S. Bachle, E. Forrestel, C. Strömberg, L. Leatherman, L. Taylor, D.J. Beerling, and C.P. Osborne. Leveraging functional diversity among grass lineages to enhance the representation ecological behavior in Earth System models. ESA (Oral)  
 Griffith, D.M., J.M. Cotton, R.L. Powell, N. Sheldon, and C.J. Still 2016. Multi-century stasis in C3 and C4 grass distributions across the contiguous United States since the industrial revolution. ICWEBS (Poster)  
@@ -98,6 +106,7 @@ Griffith, D.M. et al (2016) “Technical report: R 'cooccur' package: Probabilis
 As the maintainer for five R packages I have helped over 100 colleagues, ranging from undergraduates to senior scientists, work through their data analyses.  
 
 ## GRANTS AWARDED
+NSF Macrosystems Biology and NEON Science
 NSF GRFP: ~$150k  
 NESCent Fellowship: $15k  
 BSA Research Award: $500  
