@@ -7,13 +7,17 @@ title: Publications
 
 ## In review and in press
 
-Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review Ecography
+Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review.  
 
-Lehmann, C., **D.M. Griffith**, and the “C4 origins NESCent consortium.” Functional diversification enabled grassy biomes to fill global climate space. In review PNAS.
+**Griffith, D.M.**, and T.M. Anderson. Species distributions across metacommunities are spatially aggregated: a multi-taxa meta-analysis.  
 
-Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In revision. Ecology
+Anderegg, L., **D.M. Griffith**, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. Dawson, C.J. Still. Evolutionary history matters for modeling global plant functional diversity. In review.  
 
-**Griffith, D.M.**, and T.M. Anderson. Species distributions across metacommunities are spatially aggregated: a multi-taxa meta-analysis.
+Lehmann, C., **D.M. Griffith**, and the “C4 origins NESCent consortium.” Functional diversification enabled grassy biomes to fill global climate space. In revision.  
+
+Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In revision.   
+
+## 2020  
 
 ## 2019
 
