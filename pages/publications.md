@@ -19,7 +19,7 @@ Lehmann, C., **D.M. Griffith**, and the “C4 origins NESCent consortium.” Fun
 
 ## 2020  
 
-Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In revision.  
+(15) Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In press.  
 
 ## 2019
 
