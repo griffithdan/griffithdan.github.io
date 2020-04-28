@@ -7,8 +7,6 @@ title: Publications
 
 ## In review and in press
 
-**D.M. Griffith**, and the “C4 origins NESCent consortium.” Lineage Functional Types (LFTs): Characterizing functional diversity to enhance the representation of ecological behavior in Earth System Models. In review. 
-
 Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review.  
 
 **Griffith, D.M.**, and T.M. Anderson. Species distributions across metacommunities are spatially aggregated: a multi-taxa meta-analysis.  
@@ -19,7 +17,9 @@ Lehmann, C., **D.M. Griffith**, and the “C4 origins NESCent consortium.” Fun
 
 ## 2020  
 
-(15) Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In press.  
+(16) **D.M. Griffith**, C.P. Osborne, E.J. Edwards, S. Bachle, D.J. Beerling, W.J. Bond, T. Gallaher, B.R. Helliker, C.E.R. Lehmann, L. Leatherman, J.B. Nippert, S. Pau, F. Qiu, W.J. Riley, M.D. Smith, C. Strömberg, L. Taylor, M. Ungerer, and C.J. Still. 2020. Lineage Functional Types (LFTs): Characterizing functional diversity to enhance the representation of ecological behavior in Earth System Models. In press. 
+
+(15) Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. 2020. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In press.  
 
 ## 2019
 
@@ -41,7 +41,7 @@ Lehmann, C., **D.M. Griffith**, and the “C4 origins NESCent consortium.” Fun
 
 ## 2017
 
-(7) **Griffith, D.M.**, Lehmann, C.E., Strömberg, C.A., Parr, C.L., Pennington, R.T., Sankaran, M., Ratnam, J., Still, C.J., Powell, R.L., Hanan, N.P. and Nippert, J.B., 2017. Comment on “The extent of forest in dryland biomes”. Science, 358(6365), p.eaao1309. [Link to paper](http://science.sciencemag.org/content/358/6365/eaao1309/tab-pdf) 
+(7) **Griffith, D.M.**, Lehmann, C. E. R., Strömberg, C. A. E., Parr, C. L., Pennington, R. T., Sankaran, M., Ratnam, J., Still, C. J., Powell, R. L., Hanan, N. P., Nippert, J. B., Osborne, C. P., Good, S. P., Anderson, T. M., Holdo, R. M., Veldman, J. W., Durigan, G., Tomlinson, K. W., Hoffmann, W. A., … Bond, W. J., 2017. Comment on “The extent of forest in dryland biomes”. Science, 358(6365), p.eaao1309. [Link to paper](http://science.sciencemag.org/content/358/6365/eaao1309/tab-pdf) 
 
 (6) **Griffith, D.M.**, J.M. Cotton, R.L. Powell, N.D. Sheldon, and C.J. Still. 2017. Multi-century stasis in C3 and C4 grass distributions across the contiguous United States since the industrial revolution. Journal of Biogeography, 44:2564–2574. [Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13061) 
 
