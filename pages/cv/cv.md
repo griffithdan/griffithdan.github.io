@@ -38,6 +38,9 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2009)
 NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)  
 
 ## PUBLICATIONS
+  
+(16) **D.M. Griffith**, C.P. Osborne, E.J. Edwards, S. Bachle, D.J. Beerling, W.J. Bond, T. Gallaher, B.R. Helliker, C.E.R. Lehmann, L. Leatherman, J.B. Nippert, S. Pau, F. Qiu, W.J. Riley, M.D. Smith, C. Strömberg, L. Taylor, M. Ungerer, and C.J. Still. 2020. Lineage Functional Types (LFTs): Characterizing functional diversity to enhance the representation of ecological behavior in Earth System Models. In press.   
+
 (15) Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In press.  
 
 (14) Veldman, J.W., J.C. Aleman, S.T. Alvarado, T.M. Anderson, S. Archibald7, W.J. Bond, T.W. Boutton, N. Buchmann, E. Buisson, J.G. Canadell, M. Sá Dechoum, M.H. Diaz-Toribio, G. Durigan, J.J. Ewel, G.W. Fernandes, A. Fidelis, F. Fleischman, S.P. Good, **D.M. Griffith**, J. Hermann, W.A. Hoffmann, S. Le Stradic, C.E.R. Lehmann, G. Mahy, A.N. Nerlekar, J.B. Nippert, R.F. Noss, C.P. Osborne, G.E. Overbeck, C.L. Parr, J.G. Pausas, R.T. Pennington, M.P. Perring, F.E. Putz, J. Ratnam, M. Sankaran, I.B. Schmidt, C.B. Schmitt, F.A.O. Silveira, A.C. Staver, N. Stevens, C.J. Still, C.A.E. Strömberg, V.M. Temperton, J.M. Varner, N.P. Zaloumis. Comment on “The global tree restoration potential” Science, 366(6463) eaay7976.  
@@ -71,6 +74,8 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)
 (Book) **Griffith, D.M.**, C.J. Still, and C.P. Osborne. 2019. eBook: Revisiting the biome concept with a functional lens. Frontiers in Ecology and Evolution. [Link to eBook](https://www.frontiersin.org/articles/10.3389/fevo.2019.00144/full)
 
 ## PRESENTATIONS AND POSTERS
+Griffith, D.M. 2020. Advancing Ecosystem Science with Phylogeny and Remote Sensing of Functional Diversity. NASA HQ and USGS HQ Seminar (Invited Talk)  
+Griffith, D.M. 2020. Advancing Ecosystem Science with Phylogeny and Remote Sensing of Functional Diversity. NASA Ames Research Center - Earth Science Seminar Series (Invited Talk)  
 Griffith, D.M. 2019. Advancing Ecosystem Science with Phylogeny and Remote Sensing of Functional Diversity. NASA Jet Propulsion Laboratory - Carbon Club Seminar (Invited Talk)  
 Griffith, D.M. 2019. A Lineage-based Framework to Advance Ecosystem Science with Remotely Sensed Functional Diversity. USGS and NASA-Ames Research Center Seminar (Invited Talk)  
 Griffith, D.M. 2019. Quantitative grassland ecology: linking community and macrosystems ecology. Morton Arboretum, Research Department Seminar (Invited Talk)  
