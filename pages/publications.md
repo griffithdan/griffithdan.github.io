@@ -7,6 +7,8 @@ title: Publications
 
 ## In review and in press
 
+Still, C.J., Page, G.F.M., **Griffith, D.M.**, Rastogi., B., Aubrecht, D.M., Kim, Y., Burns, S.P., Hanson, C.V., Kwon, H., Meinzer, F.C., Sevanto, S., Roberts, D.A., Goulden, M., Pau, S.P., Detto, M., Helliker, B.R., and Richardson. A.D. Continuous, long-term leaf temperature data from diverse forest types do not support the leaf homeothermy hypothesis. In review.
+
 Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review.  
 
 **Griffith, D.M.**, and T.M. Anderson. Species distributions across metacommunities are spatially aggregated: a multi-taxa meta-analysis.  
