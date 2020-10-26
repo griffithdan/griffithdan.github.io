@@ -7,6 +7,10 @@ title: Publications
 
 ## In review and in press
 
+Still, C.J., Rastogi, B., Page, G.F.M., **Griffith, D.M.**, Sibley, A., Schulze, M., Hawkins, L. and B.R. Helliker. Canopy temperature: new and emerging insights. In review
+
+Pau, S., J.B. Nippert, **Griffith, D.M.**, S. Bachle, B.R. Helliker, R.C. O’Connor, W.J. Riley, C.J. Still, & M. Zaricor. Validating NEON AOP data with field data. In review
+
 Still, C.J., Page, G.F.M., **Griffith, D.M.**, Rastogi., B., Aubrecht, D.M., Kim, Y., Burns, S.P., Hanson, C.V., Kwon, H., Meinzer, F.C., Sevanto, S., Roberts, D.A., Goulden, M., Pau, S.P., Detto, M., Helliker, B.R., and Richardson. A.D. Continuous, long-term leaf temperature data from diverse forest types do not support the leaf homeothermy hypothesis. In review.
 
 Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review.  
