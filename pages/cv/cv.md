@@ -38,7 +38,10 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2009)
 NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)  
 
 ## PUBLICATIONS
-  
+(18) Cawse-Nicholson, K., P.A. Townsend, D. Schimel, A.M. Assiri, P.L. Blake, M.F. Buongiorno, P. Campbell, N. Carmon, K.A. Casey, R.E. Correa-Pabón, K.M. Dahlin, H. Dashti, P.E. Dennison, H. Dierssen, A. Erickson, J.B. Fisher, R. Frouin, C.K. Gatebe, H. Gholizadeh, M. Gierach, N.F. Glenn, J.A. Goodman, **D.M. Griffith**, L. Guild, C.R. Hakkenberg, E.J. Hochberg, T.R.H. Holmes, C. Hu, G. Hulley, K.F. Huemmrich, R.M. Kudela, R.F. Kokaly,  C.M. Lee, R. Martin, C.E. Miller, W.J. Moses, F.E. Muller-Karger, J.D. Ortiz, D.B. Otis, N. Pahlevan, T.H. Painter, R. Pavlick, B. Poulter, Y. Qi, V.J. Realmuto, D. Roberts, M.E. Schaepman, F.D. Schneider, F.M. Schwandner, S.P. Serbin, A.N. Shiklomanov, E.N. Stavros, D.R. Thompson, J.L. Torres-Perez, K.R. Turpie, M. Tzortziou, S. Ustin, Q. Yu, Y. Yusup, Q. Zhang (2021) NASA’s Surface Biology and Geology Designated Observable: A Perspective on Surface Imaging Algorithms. Remote Sensing of Environment
+
+(17) C.J. Still, B. Rastogi, G.F.M. Page, **D.M. Griffith**, A. Sibley, M. Schulze, L. Hawkins, S. Pau, M. Detto and B.R. Helliker. Imaging canopy temperature: Shedding (thermal) light on ecosystem processes. New Phytologist
+
 (16) **D.M. Griffith**, C.P. Osborne, E.J. Edwards, S. Bachle, D.J. Beerling, W.J. Bond, T. Gallaher, B.R. Helliker, C.E.R. Lehmann, L. Leatherman, J.B. Nippert, S. Pau, F. Qiu, W.J. Riley, M.D. Smith, C. Strömberg, L. Taylor, M. Ungerer, and C.J. Still. 2020. Lineage Functional Types (LFTs): Characterizing functional diversity to enhance the representation of ecological behavior in Earth System Models. In press.   
 
 (15) Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In press.  
