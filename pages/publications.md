@@ -21,6 +21,12 @@ Anderegg, L., **D.M. Griffith**, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. D
 
 Lehmann, C., **D.M. Griffith**, and the “C4 origins NESCent consortium.” Functional diversification enabled grassy biomes to fill global climate space. In revision.  
 
+## 2021
+
+(18) Cawse-Nicholson, K., P.A. Townsend, D. Schimel, A.M. Assiri, P.L. Blake, M.F. Buongiorno, P. Campbell, N. Carmon, K.A. Casey, R.E. Correa-Pabón, K.M. Dahlin, H. Dashti, P.E. Dennison, H. Dierssen, A. Erickson, J.B. Fisher, R. Frouin, C.K. Gatebe, H. Gholizadeh, M. Gierach, N.F. Glenn, J.A. Goodman, **D.M. Griffith**, L. Guild, C.R. Hakkenberg, E.J. Hochberg, T.R.H. Holmes, C. Hu, G. Hulley, K.F. Huemmrich, R.M. Kudela, R.F. Kokaly,  C.M. Lee, R. Martin, C.E. Miller, W.J. Moses, F.E. Muller-Karger, J.D. Ortiz, D.B. Otis, N. Pahlevan, T.H. Painter, R. Pavlick, B. Poulter, Y. Qi, V.J. Realmuto, D. Roberts, M.E. Schaepman, F.D. Schneider, F.M. Schwandner, S.P. Serbin, A.N. Shiklomanov, E.N. Stavros, D.R. Thompson, J.L. Torres-Perez, K.R. Turpie, M. Tzortziou, S. Ustin, Q. Yu, Y. Yusup, Q. Zhang (2021) NASA’s Surface Biology and Geology Designated Observable: A Perspective on Surface Imaging Algorithms. Remote Sensing of Environment
+
+(17) C.J. Still, B. Rastogi, G.F.M. Page, **D.M. Griffith**, A. Sibley, M. Schulze, L. Hawkins, S. Pau, M. Detto and B.R. Helliker. Imaging canopy temperature: Shedding (thermal) light on ecosystem processes. New Phytologist
+
 ## 2020  
 
 (16) **D.M. Griffith**, C.P. Osborne, E.J. Edwards, S. Bachle, D.J. Beerling, W.J. Bond, T. Gallaher, B.R. Helliker, C.E.R. Lehmann, L. Leatherman, J.B. Nippert, S. Pau, F. Qiu, W.J. Riley, M.D. Smith, C. Strömberg, L. Taylor, M. Ungerer, and C.J. Still. 2020. Lineage Functional Types (LFTs): Characterizing functional diversity to enhance the representation of ecological behavior in Earth System Models. In press. 
