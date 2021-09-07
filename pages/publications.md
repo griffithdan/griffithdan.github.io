@@ -9,8 +9,6 @@ title: Publications
 
 Still, C.J., Rastogi, B., Page, G.F.M., **Griffith, D.M.**, Sibley, A., Schulze, M., Hawkins, L. and B.R. Helliker. Canopy temperature: new and emerging insights. In review
 
-Pau, S., J.B. Nippert, **Griffith, D.M.**, S. Bachle, B.R. Helliker, R.C. O’Connor, W.J. Riley, C.J. Still, & M. Zaricor. Validating NEON AOP data with field data. In review
-
 Still, C.J., Page, G.F.M., **Griffith, D.M.**, Rastogi., B., Aubrecht, D.M., Kim, Y., Burns, S.P., Hanson, C.V., Kwon, H., Meinzer, F.C., Sevanto, S., Roberts, D.A., Goulden, M., Pau, S.P., Detto, M., Helliker, B.R., and Richardson. A.D. Continuous, long-term leaf temperature data from diverse forest types do not support the leaf homeothermy hypothesis. In review.
 
 Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review.  
@@ -22,6 +20,8 @@ Anderegg, L., **D.M. Griffith**, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. D
 Lehmann, C., **D.M. Griffith**, and the “C4 origins NESCent consortium.” Functional diversification enabled grassy biomes to fill global climate space. In revision.  
 
 ## 2021
+
+(20) Pau, S., J.B. Nippert, R. Slapikas, **Griffith, D.M.**, S. Bachle, B.R. Helliker, R.C. O’Connor, W.J. Riley, C.J. Still, & M. Zaricor. Poor relationships between NEON AOP data and field-based vegetation traits at a mesic grassland site. Ecology, accepted
 
 (19) Cawse-Nicholson, K., P.A. Townsend, D. Schimel, A.M. Assiri, P.L. Blake, M.F. Buongiorno, P. Campbell, N. Carmon, K.A. Casey, R.E. Correa-Pabón, K.M. Dahlin, H. Dashti, P.E. Dennison, H. Dierssen, A. Erickson, J.B. Fisher, R. Frouin, C.K. Gatebe, H. Gholizadeh, M. Gierach, N.F. Glenn, J.A. Goodman, **D.M. Griffith**, L. Guild, C.R. Hakkenberg, E.J. Hochberg, T.R.H. Holmes, C. Hu, G. Hulley, K.F. Huemmrich, R.M. Kudela, R.F. Kokaly,  C.M. Lee, R. Martin, C.E. Miller, W.J. Moses, F.E. Muller-Karger, J.D. Ortiz, D.B. Otis, N. Pahlevan, T.H. Painter, R. Pavlick, B. Poulter, Y. Qi, V.J. Realmuto, D. Roberts, M.E. Schaepman, F.D. Schneider, F.M. Schwandner, S.P. Serbin, A.N. Shiklomanov, E.N. Stavros, D.R. Thompson, J.L. Torres-Perez, K.R. Turpie, M. Tzortziou, S. Ustin, Q. Yu, Y. Yusup, Q. Zhang (2021) NASA’s Surface Biology and Geology Designated Observable: A Perspective on Surface Imaging Algorithms. Remote Sensing of Environment
 
