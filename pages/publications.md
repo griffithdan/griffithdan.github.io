@@ -7,17 +7,13 @@ title: Publications
 
 ## In review and in press
 
-Still, C.J., Rastogi, B., Page, G.F.M., **Griffith, D.M.**, Sibley, A., Schulze, M., Hawkins, L. and B.R. Helliker. Canopy temperature: new and emerging insights. In review
-
 Still, C.J., Page, G.F.M., **Griffith, D.M.**, Rastogi., B., Aubrecht, D.M., Kim, Y., Burns, S.P., Hanson, C.V., Kwon, H., Meinzer, F.C., Sevanto, S., Roberts, D.A., Goulden, M., Pau, S.P., Detto, M., Helliker, B.R., and Richardson. A.D. Continuous, long-term leaf temperature data from diverse forest types do not support the leaf homeothermy hypothesis. In review.
 
 Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review.  
 
-**Griffith, D.M.**, and T.M. Anderson. Species distributions across metacommunities are spatially aggregated: a multi-taxa meta-analysis.  
-
 Anderegg, L., **D.M. Griffith**, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. Dawson, C.J. Still. Evolutionary history matters for modeling global plant functional diversity. In review.  
 
-Lehmann, C., **D.M. Griffith**, and the “C4 origins NESCent consortium.” Functional diversification enabled grassy biomes to fill global climate space. In revision.  
+**Griffith, D.M.**, K. Byrd, L. Anderegg, L., D. Gatziolis, D. Roberts, R. Yacoub, R. Nemani. Remote sensing of Lineage Functional Types for modeling and monitoring biodiversity. In review.  
 
 ## 2021
 
