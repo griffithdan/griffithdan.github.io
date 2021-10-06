@@ -7,9 +7,9 @@ title: Contact
 
 ## Contact details
 
-Daniel M. Griffith 
-Research Ecologist
-321 Richardson Hall
+Daniel M. Griffith  
+Research Ecologist  
+321 Richardson Hall  
 Department of Forest Ecosystems and Society   
 Oregon State Unversity    
 Corvallis, OR, USA, 97333  
