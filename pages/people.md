@@ -9,11 +9,15 @@ title: People
 
 Daniel M Griffith, Oregon State University, Research Faculty
 
-## Postdoctoral scholars
+### Postdoctoral scholars
 
 Rongting (Tina) Xu: [website](https://xurongting15.github.io/)
 
 ### Collaborations
+
+Grassy LFT Macrosystems (more to come)
+
+CA LFT Digital Twin (more to come)
 
 Lila Leatherman, Oregon State University, PhD student: [website](https://lleather.github.io/)
 
