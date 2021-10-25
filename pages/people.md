@@ -17,16 +17,16 @@ Rongting (Tina) Xu: [website](https://xurongting15.github.io/)
 
 Grassland Macroecology   
 + Project PI's:   
-++ Dr. Chris Still (Oregon State University),   
-++ Dr. Brent Helliker (University of Pennsylvania),   
-++ Dr. Stephanie Pau (Florida State University),   
-++ Dr. Daniel Griffith (Oregon State University),   
-++ Dr. Bill Riley (Lawrence Berkeley National Labs)   
-++ Dr. Jesse Nippert (Kansas State University)   
+ + Dr. Chris Still (Oregon State University),   
+ + Dr. Brent Helliker (University of Pennsylvania),   
+ + Dr. Stephanie Pau (Florida State University),   
+ + Dr. Daniel Griffith (Oregon State University),   
+ + Dr. Bill Riley (Lawrence Berkeley National Labs)   
+ + Dr. Jesse Nippert (Kansas State University)   
 + Project Graduate Students:   
-++ Ryan "The Elder" Slapikas (Florida State University),   
-++ Ryan "The Younger" Donnelly (Kansas State University),   
-++ Adam Abudullahi (University of Pennsylvania)   
+ + Ryan "The Elder" Slapikas (Florida State University),   
+ + Ryan "The Younger" Donnelly (Kansas State University),   
+ + Adam Abudullahi (University of Pennsylvania)   
    
 CA LFT Digital Twin (more to come)
 
