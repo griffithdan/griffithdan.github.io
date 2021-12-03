@@ -11,11 +11,11 @@ Still, C.J., Page, G.F.M., **Griffith, D.M.**, Rastogi., B., Aubrecht, D.M., Kim
 
 Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review.  
 
-Anderegg, L., **D.M. Griffith**, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. Dawson, C.J. Still. Evolutionary history matters for modeling global plant functional diversity. In review.  
-
 **Griffith, D.M.**, K. Byrd, L. Anderegg, L., D. Gatziolis, D. Roberts, R. Yacoub, R. Nemani. Remote sensing of Lineage Functional Types for modeling and monitoring biodiversity. In review.  
 
 ## 2021
+
+(21) Anderegg, L., **D.M. Griffith**, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. Dawson, C.J. Still. Representing plant diversity in land models: An evolutionary approach to make ‘Functional Types’ more functional.  
 
 (20) Pau, S., J.B. Nippert, R. Slapikas, **Griffith, D.M.**, S. Bachle, B.R. Helliker, R.C. O’Connor, W.J. Riley, C.J. Still, & M. Zaricor. Poor relationships between NEON AOP data and field-based vegetation traits at a mesic grassland site. Ecology, accepted
 
