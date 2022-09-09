@@ -5,17 +5,7 @@ title: CV
 
 ![cv image]({{ site.url }}/assets/cv.jpg){:width="900px"}
 
-# CV
-
-350 N Akron Rd, NASA Ames Research Center  
-Moffett Field, CA, USA, 94035  
-E: griffith.dan@gmail.com  
-W: griffithdan.github.io
-
-321 Richardson Hall, Department of Forest Ecosystems and Society  
-Oregon State Unversity  
-Corvallis, OR, USA, 97333  
-E: daniel.griffith@oregonstate.edu  
+# CV 
 
 ## EDUCATION
 
@@ -27,6 +17,7 @@ Vassar College, Biology, B.A. (2006 – 2010)
 – “Spartina alterniflora’s peculiar relationship with sulfide”  
 
 ## PROFESSIONAL APPOINTMENTS
+Visiting Assistant Professor of Earth & Environmental Science
 NASA Ames Research Center, Research Ecologist and Interagency NASA-USGS Postdoctoral Research Fellow (2019 – present)  
 Oregon State University, Postdoctoral Research Associate (2016 – 2019)  
 National Science Foundation, Graduate Research Fellowship (2011 – 2015)  
@@ -38,6 +29,10 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2009)
 NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)  
 
 ## PUBLICATIONS
+(22) Still, C.J., Page, G.F.M., Griffith, D.M., Rastogi., B., Aubrecht, D.M., Kim, Y., Burns, S.P., Hanson, C.V., Kwon, H., Meinzer, F.C., Sevanto, S., Roberts, D.A., Goulden, M., Pau, S.P., Detto, M., Helliker, B.R., and Richardson. A.D. Continuous, long-term leaf temperature data from diverse forest types do not support the leaf homeothermy hypothesis
+
+(21) Anderegg, L., D.M. Griffith, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. Dawson, C.J. Still. Representing plant diversity in land models: An evolutionary approach to make ‘Functional Types’ more functional.
+
 (20) Pau, S., J.B. Nippert, R. Slapikas, **Griffith, D.M.**, S. Bachle, B.R. Helliker, R.C. O’Connor, W.J. Riley, C.J. Still, & M. Zaricor. Poor relationships between NEON AOP data and field-based vegetation traits at a mesic grassland site. Ecology, accepted
 
 (19) Cawse-Nicholson, K., P.A. Townsend, D. Schimel, A.M. Assiri, P.L. Blake, M.F. Buongiorno, P. Campbell, N. Carmon, K.A. Casey, R.E. Correa-Pabón, K.M. Dahlin, H. Dashti, P.E. Dennison, H. Dierssen, A. Erickson, J.B. Fisher, R. Frouin, C.K. Gatebe, H. Gholizadeh, M. Gierach, N.F. Glenn, J.A. Goodman, **D.M. Griffith**, L. Guild, C.R. Hakkenberg, E.J. Hochberg, T.R.H. Holmes, C. Hu, G. Hulley, K.F. Huemmrich, R.M. Kudela, R.F. Kokaly,  C.M. Lee, R. Martin, C.E. Miller, W.J. Moses, F.E. Muller-Karger, J.D. Ortiz, D.B. Otis, N. Pahlevan, T.H. Painter, R. Pavlick, B. Poulter, Y. Qi, V.J. Realmuto, D. Roberts, M.E. Schaepman, F.D. Schneider, F.M. Schwandner, S.P. Serbin, A.N. Shiklomanov, E.N. Stavros, D.R. Thompson, J.L. Torres-Perez, K.R. Turpie, M. Tzortziou, S. Ustin, Q. Yu, Y. Yusup, Q. Zhang (2021) NASA’s Surface Biology and Geology Designated Observable: A Perspective on Surface Imaging Algorithms. Remote Sensing of Environment
