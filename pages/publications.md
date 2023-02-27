@@ -15,7 +15,7 @@ Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassm
 
 ## 2023
 
-(23) Griffith, D.M., Byrd, K.B., Taylor, N., Allan, E., Bittner, L., O'Brien, B., Parker, V.T., Vasey, M.C., Pavlick, R. and Nemani, R.R., 2023. Variation in leaf reflectance spectra across the California flora partitioned by evolutionary history, geographic origin, and deep time. Journal of Geophysical Research: Biogeosciences, p.e2022JG007160.
+(23) **Griffith, D.M.**, Byrd, K.B., Taylor, N., Allan, E., Bittner, L., O'Brien, B., Parker, V.T., Vasey, M.C., Pavlick, R. and Nemani, R.R., 2023. Variation in leaf reflectance spectra across the California flora partitioned by evolutionary history, geographic origin, and deep time. Journal of Geophysical Research: Biogeosciences, p.e2022JG007160.
 
 ## 2022
 
