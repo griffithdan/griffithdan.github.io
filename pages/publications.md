@@ -13,11 +13,17 @@ Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassm
 
 **Griffith, D.M.**, K. Byrd, L. Anderegg, L., D. Gatziolis, D. Roberts, R. Yacoub, R. Nemani. Remote sensing of Lineage Functional Types for modeling and monitoring biodiversity. In review.  
 
-## 2021
+## 2023
+
+(23) Griffith, D.M., Byrd, K.B., Taylor, N., Allan, E., Bittner, L., O'Brien, B., Parker, V.T., Vasey, M.C., Pavlick, R. and Nemani, R.R., 2023. Variation in leaf reflectance spectra across the California flora partitioned by evolutionary history, geographic origin, and deep time. Journal of Geophysical Research: Biogeosciences, p.e2022JG007160.
+
+## 2022
 
 (22) Still, C.J., Page, G.F.M., Rastogi., B., **Griffith, D.M.**,  Aubrecht, D.M., Kim, Y., Burns, S.P., Hanson, C.V., Kwon, H., Meinzer, F.C., Sevanto, S., Roberts, D.A., Goulden, M., Pau, S.P., Detto, M., Helliker, B.R., and Richardson. A.D. Continuous, long-term leaf temperature data from diverse forest types do not support the leaf homeothermy hypothesis. PNAS
 
-(21) Anderegg, L., **D.M. Griffith**, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. Dawson, C.J. Still. Representing plant diversity in land models: An evolutionary approach to make ‘Functional Types’ more functional.  
+(21) Anderegg, L., **D.M. Griffith**, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. Dawson, C.J. Still. 2022. Representing plant diversity in land models: An evolutionary approach to make ‘Functional Types’ more functional.  
+
+## 2021
 
 (20) Pau, S., J.B. Nippert, R. Slapikas, **Griffith, D.M.**, S. Bachle, B.R. Helliker, R.C. O’Connor, W.J. Riley, C.J. Still, & M. Zaricor. Poor relationships between NEON AOP data and field-based vegetation traits at a mesic grassland site. Ecology, accepted
 
