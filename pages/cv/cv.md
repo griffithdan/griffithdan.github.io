@@ -25,4 +25,4 @@ NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2009)
 NSF REU Researcher, Connolly Lab, U. of South Carolina at Columbia (2008)  
 
 ## PUBLICATIONS
-[*See Publications*](({{ site.url }}/pages/publications.html)
+[*See Publications*](https://griffithdan.github.io/pages/publications.html)
