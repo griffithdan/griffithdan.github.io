@@ -11,9 +11,11 @@ title: Publications
 
 Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassmapr, an R package to predict C3/C4 grass distributions and model terrestrial δ13C isoscapes. In review.  
 
-**Griffith, D.M.**, K. Byrd, L. Anderegg, L., D. Gatziolis, D. Roberts, R. Yacoub, R. Nemani. Remote sensing of Lineage Functional Types for modeling and monitoring biodiversity. In review.  
+
 
 ## 2023
+
+(26) Donnelly et al & **Griffith, D.M.** et al (2023) In Press.
 
 (25) **Griffith, D.M.** et al (2023). Capturing patterns of evolutionary relatedness with reflectance spectra to model and monitor biodiversity. In Press  
 
