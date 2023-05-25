@@ -15,6 +15,10 @@ Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassm
 
 ## 2023
 
+(25) **Griffith, D.M.** et al (2023). Capturing patterns of evolutionary relatedness with reflectance spectra to model and monitor biodiversity. In Press  
+
+(24) Still, C. J., Page, G. F., Rastogi, B., **Griffith, D. M.**, Aubrecht, D. M., Kim, Y., ... & Richardson, A. D. (2023). Reply to Garen et al.: Within-canopy temperature data also do not support limited homeothermy. Proceedings of the National Academy of Sciences, 120(15), e2302515120.
+
 (23) **Griffith, D.M.**, Byrd, K.B., Taylor, N., Allan, E., Bittner, L., O'Brien, B., Parker, V.T., Vasey, M.C., Pavlick, R. and Nemani, R.R., 2023. Variation in leaf reflectance spectra across the California flora partitioned by evolutionary history, geographic origin, and deep time. Journal of Geophysical Research: Biogeosciences, p.e2022JG007160.
 
 ## 2022
