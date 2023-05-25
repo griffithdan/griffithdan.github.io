@@ -13,7 +13,7 @@ Wake Forest University, Ph.D. Biology (2011 – 2016)
 Vassar College, Biology, B.A. (2006 – 2010)  
 
 ## PROFESSIONAL APPOINTMENTS
-Visiting Assistant Professor of Earth & Environmental Science and the Quantitative Analysis Center, Wesleyan University  
+Wesleyan University, Visiting Assistant Professor of Earth & Environmental Science and the Quantitative Analysis Center  
 NASA Ames Research Center, Research Ecologist and Interagency NASA-USGS Postdoctoral Research Fellow (2019 – 2021)  
 Oregon State University, Postdoctoral Research Associate (2016 – 2019)  
 National Science Foundation, Graduate Research Fellowship (2011 – 2015)  
