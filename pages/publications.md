@@ -15,7 +15,7 @@ Powell, R.L., **D.M. Griffith**, S.M. Firmin, J.M. Cotton and C.J. Still. grassm
 
 ## 2023
 
-(26) Donnelly et al & **Griffith, D.M.** et al (2023) In Press.
+(26) Donnelly et al & **Griffith, D.M.** (2023) In Press.
 
 (25) **Griffith, D.M.** et al (2023). Capturing patterns of evolutionary relatedness with reflectance spectra to model and monitor biodiversity. In Press  
 
