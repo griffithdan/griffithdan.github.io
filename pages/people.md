@@ -3,7 +3,7 @@ layout: default
 title: People
 ---
 
-![publications image]({{ site.url }}/assets/publications.jpg){:width="900px"}
+![publications image]({{ site.url }}/assets/cv.jpg){:width="900px"}
 
 ## People
 
