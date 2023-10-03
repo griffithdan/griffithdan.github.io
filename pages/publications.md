@@ -5,9 +5,11 @@ title: Publications
 
 ![publications image]({{ site.url }}/assets/publications.jpg){:width="900px"}
 
-## 2023
+## Publications
 
-Donnelly, R.C., Wedel, E.R., Taylor, J.H., Nippert, J.B., Helliker, B.R., Riley, W.J., Still, C.J. & **Griffith, D. M.** (2023) Evolutionary lineage explains trait variation among 75 coexisting grass species. New Phytologist, 239, 875–887. (Authorship: Senior author)
+Pau, S., **Griffith, D. M.**, Zampieri, N. E., & Costanza, J. (2023). Longleaf pine savannas reveal biases in current understanding of savanna biogeography. Global Ecology and Biogeography, 00, 1–6. https://doi.org/10.1111/geb.13747
+
+Donnelly, R.C., Wedel, E.R., Taylor, J.H., Nippert, J.B., Helliker, B.R., Riley, W.J., Still, C.J. & **Griffith, D. M.** (2023) Evolutionary lineage explains trait variation among 75 coexisting grass species. New Phytologist, 239, 875–887. 
 
 **Griffith, D. M.**, Byrd, K.B., Anderegg, L.D.L., Allan, E., Gatziolis, D., Roberts, D., Yacoub, R. & Nemani, R.R. (2023) Capturing patterns of evolutionary relatedness with reflectance spectra to model and monitor biodiversity. Proceedings of the National Academy of Sciences, 120, e2215533120.  
 
@@ -15,13 +17,9 @@ Still, C. J., Page, G. F., Rastogi, B., **Griffith, D. M.**, Aubrecht, D. M., Ki
 
 **Griffith, D.M.**, Byrd, K.B., Taylor, N., Allan, E., Bittner, L., O'Brien, B., Parker, V.T., Vasey, M.C., Pavlick, R. and Nemani, R.R., 2023. Variation in leaf reflectance spectra across the California flora partitioned by evolutionary history, geographic origin, and deep time. Journal of Geophysical Research: Biogeosciences, p.e2022JG007160.
 
-## 2022
-
 Still, C.J., Page, G.F.M., Rastogi., B., **Griffith, D.M.**,  Aubrecht, D.M., Kim, Y., Burns, S.P., Hanson, C.V., Kwon, H., Meinzer, F.C., Sevanto, S., Roberts, D.A., Goulden, M., Pau, S.P., Detto, M., Helliker, B.R., and Richardson. A.D. Continuous, long-term leaf temperature data from diverse forest types do not support the leaf homeothermy hypothesis. PNAS
 
 Anderegg, L., **D.M. Griffith**, J. Cavender-Bares, W. Riley, J.A. Berry, T.E. Dawson, C.J. Still. 2022. Representing plant diversity in land models: An evolutionary approach to make ‘Functional Types’ more functional.  
-
-## 2021
 
 Pau, S., J.B. Nippert, R. Slapikas, **Griffith, D.M.**, S. Bachle, B.R. Helliker, R.C. O’Connor, W.J. Riley, C.J. Still, & M. Zaricor. Poor relationships between NEON AOP data and field-based vegetation traits at a mesic grassland site. Ecology, accepted
 
@@ -29,13 +27,9 @@ Cawse-Nicholson, K., P.A. Townsend, D. Schimel, A.M. Assiri, P.L. Blake, M.F. Bu
 
 C.J. Still, B. Rastogi, G.F.M. Page, **D.M. Griffith**, A. Sibley, M. Schulze, L. Hawkins, S. Pau, M. Detto and B.R. Helliker. Imaging canopy temperature: Shedding (thermal) light on ecosystem processes. New Phytologist
 
-## 2020  
-
 **D.M. Griffith**, C.P. Osborne, E.J. Edwards, S. Bachle, D.J. Beerling, W.J. Bond, T. Gallaher, B.R. Helliker, C.E.R. Lehmann, L. Leatherman, J.B. Nippert, S. Pau, F. Qiu, W.J. Riley, M.D. Smith, C. Strömberg, L. Taylor, M. Ungerer, and C.J. Still. 2020. Lineage Functional Types (LFTs): Characterizing functional diversity to enhance the representation of ecological behavior in Earth System Models. In press. 
 
 Quigley, K.Q., **D.M. Griffith**, G. Donati and T.M. Anderson. 2020. Water and nutrients, not herbivory, drive global patterns of grass leaf silicification. In press.  
-
-## 2019
 
 Caroline E. R. Lehmann, **D.M. Griffith**, Kimberley J. Simpson, T. Michael Anderson, Sally Archibald, David J. Beerling, William J. Bond, Elsie Denton, Erika J. Edwards, Elisabeth J. Forrestel, David L. Fox, Damien Georges, William A. Hoffmann, Thomas Kluyver, Ladislav Mucina, Stephanie Pau, Jayashree Ratnam, Nicolas Salamin, Bianca Santini, Melinda D. Smith, Elizabeth L. Spriggs, Rebecca Westley, Christopher J. Still, Caroline A.E. Strömberg, Colin P. Osborne. 2019. Functional diversification enabled grassy biomes to fill global climate space. [Link to paper](https://doi.org/10.1101/583625)
 
@@ -45,8 +39,6 @@ Veldman, J.W., J.C. Aleman, S.T. Alvarado, T.M. Anderson, S. Archibald7, W.J. Bo
 
 **Griffith, D.M** and Anderson TM. 2019. The ‘plantspec’ r package: A tool for spectral analysis of plant stoichiometry. Methods Ecol Evol. 00:1–7. [Link to paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13143) - [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/plantspec.html)
 
-## 2018
-
 Bachle, S., **D.M. Griffith**, and Nippert, J.B. 2018. Intraspecific trait variability in Andropogon gerardii, a dominant grass species in the US Great Plains. Frontiers in Ecology and Evolution, 6, p.217. [Link to paper](https://www.frontiersin.org/articles/10.3389/fevo.2018.00217/full) 
 
 Still, C.J., J.M. Cotton, and **D.M. Griffith**. 2018. Assessing Earth System Model predictions of C4 grass cover in North America: from the glacial era to the end of this century. Global Ecology and Biogeography, 24: 304-313. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12830) 
@@ -55,30 +47,18 @@ Anderson, T.M., P.M. Ngoti, M.L. Nzunda, **D.M. Griffith**, J.D.M. Speed, F. Fos
 
 Anderson, T.M., **D.M. Griffith**, E.M. Lind, P.B. Adler, L.A. Biederman, D.M. Blumenthal, E.T. Borer, P. Daleo, J. Firn, N. Hagenah, W.S. Harpole, A.S. MacDougall, R.L. McCulley, S.M. Prober, A.C. Risch, M. Sankaran, M. Schütz, E. Seabloom, L. Sullivan, P. Wragg and J.B. Grace. Herbivory and eutrophication modulate grassland plant nutrient responses across a global climatic gradient. Ecology, 99: 822-831. [Link to paper](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2175) 
 
-## 2017
-
 **Griffith, D.M.**, Lehmann, C. E. R., Strömberg, C. A. E., Parr, C. L., Pennington, R. T., Sankaran, M., Ratnam, J., Still, C. J., Powell, R. L., Hanan, N. P., Nippert, J. B., Osborne, C. P., Good, S. P., Anderson, T. M., Holdo, R. M., Veldman, J. W., Durigan, G., Tomlinson, K. W., Hoffmann, W. A., … Bond, W. J., 2017. Comment on “The extent of forest in dryland biomes”. Science, 358(6365), p.eaao1309. [Link to paper](http://science.sciencemag.org/content/358/6365/eaao1309/tab-pdf) 
 
 **Griffith, D.M.**, J.M. Cotton, R.L. Powell, N.D. Sheldon, and C.J. Still. 2017. Multi-century stasis in C3 and C4 grass distributions across the contiguous United States since the industrial revolution. Journal of Biogeography, 44:2564–2574. [Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13061) 
 
 **Griffith, D.M.**, T.M. Anderson, and E.W. Hamilton III. 2017. Ungulate grazing drives higher ramet turnover in sodium adapted Serengeti grasses. Journal of Vegetation Science, 28: 815-823. [Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.12526) 
 
-## 2016
-
 **Griffith, D.M.**, K. Quigley, and T.M. Anderson. 2016. Leaf thickness controls variation in leaf mass per area (LMA) among grazing-adapted grasses in Serengeti. Oecologia, 181:1035-1040. [Link to paper](https://link.springer.com/article/10.1007%2Fs00442-016-3632-3) 
-
-## 2015
 
 **Griffith, D.M.**, J.A. Veech, and C.J. Marsh. 2015. cooccur: Probabilistic Species Co-occurrence Analysis in R. J. Stat. Soft. [Link to paper](https://www.jstatsoft.org/article/view/v069c02) - [Link to R package vignette](https://griffithdan.github.io/pages/code_and_data/cooccur.html)
 
-## 2014
-
 **Griffith, D.M.**, T.M. Anderson, C.P. Osborne, C.A.E. Stromberg, E.J. Forrestel, and C.J. Still. 2014. Biogeographically distinct controls on C3 and C4 grass distributions: merging community with physiological ecology. Global Ecology and Biogeography, 24: 304-313. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12265) 
 
-## 2013
-
 **Griffith, D.M.**, and T.M. Anderson. 2013. Responses of African grasses in the genus Sporobolus to defoliation and sodium stress: tradeoffs, cross-tolerance, or independent responses? Plants 2:712-725. [Link to paper](https://www.ncbi.nlm.nih.gov/pubmed/27137400) 
-
-## Books
 
 **Griffith, D.M.**, C.J. Still, and C.P. Osborne. 2019. Revisiting the biome concept with a functional lens. eBook in Frontiers in Ecology and Evolution. [Link to ebook](https://www.frontiersin.org/articles/10.3389/fevo.2019.00144/full)
