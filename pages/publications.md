@@ -7,6 +7,10 @@ title: Publications
 
 ## Publications
 
+Slapikas, R., Pau, S., Donnelly, R.C., Ho, C.L., Nippert, J.B., Helliker, B.R., Riley, W.J., Still, C.J. and **Griffith, D. M.** (2024). Grass evolutionary lineages can be identified using hyperspectral leaf reflectance. Journal of Geophysical Research: Biogeosciences, 129(2), e2023JG007852.
+
+Luo, X., Zhou, H., Satriawan, T.W., Tian, J., Zhao, R., Keenan, T.F., **Griffith, D. M.**, Sitch, S., Smith, N.G. and Still, C.J. (2024). Mapping the global distribution of C4 vegetation using observations and optimality theory. Nature Communications, 15(1), 1219.
+
 Pau, S., **Griffith, D. M.**, Zampieri, N. E., & Costanza, J. (2023). Longleaf pine savannas reveal biases in current understanding of savanna biogeography. Global Ecology and Biogeography, 00, 1–6. https://doi.org/10.1111/geb.13747
 
 Donnelly, R.C., Wedel, E.R., Taylor, J.H., Nippert, J.B., Helliker, B.R., Riley, W.J., Still, C.J. & **Griffith, D. M.** (2023) Evolutionary lineage explains trait variation among 75 coexisting grass species. New Phytologist, 239, 875–887. 
