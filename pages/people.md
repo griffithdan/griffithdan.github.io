@@ -34,7 +34,7 @@ Lila Leatherman, Oregon State University, PhD student: [website](https://lleathe
 
 Helen Deretchin - Wax on, Wax off: The Contribution of Epicuticular Plant Waxes to Leaf Reflectance Spectra of Tallgrass Prairie Grasses. Fieldwork at Konza Prairie, lab work, and AGU presentation.   
 Kai Tripician - Leaf Epicuticular Waxes and the Functional Ecology of Prairie Grasses. Fieldwork at Konza Prairie, lab work, and AGU presentation.   
-
+Nick Bowman - Maritime connectivity and mobility in the southeastern Aegean and Eastern Mediterranean during the Neopalatial Period: A GIS-based approach	   
 Theodore Zarobell (’24 CSS) - Digital Storytelling with the Carceral Connecticut Project	   
 Jonah Yas (’25 BIOL, ENVS) - Food insecurity in Buenos Aires during the Argentine Dictatorship (1976-1983)   	
 Aidan Trendell (’25 E&ES, CIS) - Mapping deglaciation along the Glacier Express   
